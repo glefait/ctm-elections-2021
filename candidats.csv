@@ -1,17 +1,17 @@
-id,candidat,age,age_source
-1,Béatrice Bellay,46,https://la1ere.francetvinfo.fr/martinique/qui-est-beatrice-bellay-nouvelle-premiere-secretaire-socialistes-574477.html
-2,Olivier Berisson,47,http://martiniqueannu.com/martiniquais-celebre/olivier-berisson
-3,Philippe Jock,60,http://martiniqueannu.com/martiniquais-celebre/philippe-jock
-4,Serge Letchimy,68,https://fr.wikipedia.org/wiki/Serge_Letchimy
-5,Alfred Marie-Jeanne,84,https://fr.wikipedia.org/wiki/Alfred_Marie-Jeanne
-6,Ralph Monplaisir,73,https://groupemonplaisir.com/index.php?id_rubrique=108&id_article=454
-7,Yan Monplaisir,69,https://groupemonplaisir.com/index.php?id_rubrique=108&id_article=454
-8,Jean-Philippe Nilor,55,https://fr.wikipedia.org/wiki/Jean-Philippe_Nilor
-9,Max Orville,59,http://modem-martinique.over-blog.com/pages/Biographie-de-max-orville-tete-de-liste-du-modem-martinique-pour-les-elections-regionales-2010-2668477.html
-10,Philippe Petit,63,https://dirigeant.societe.com/dirigeant/Philippe.PETIT.60279952.html
-11,Edryan Rangoly,23,https://dirigeant.societe.com/dirigeant/Edryan.RANGOLY.65264480.html
-12,Guy Ferdinand,53,https://dirigeant.societe.com/dirigeant/Guy.FERDINAND.24068805.html
-13,Marcel Sellaye,67,https://www.pappers.fr/entreprise/msis-consultiing-ms-ingenierie-sociale-consulting-751942590
-14,yann mievilly,38,https://dirigeant.societe.com/dirigeant/Yann.MIEVILLY.37264204.html
-15,Gabriel Jean-Marie,65,
-16,Daniel Robin,60,https://dirigeant.societe.com/dirigeant/Daniel.ROBIN.82625222.html
+id,candidat,age,age_source,position_vaccin,vacciné,position_vaccin_source
+1,Béatrice Bellay,46,https://la1ere.francetvinfo.fr/martinique/qui-est-beatrice-bellay-nouvelle-premiere-secretaire-socialistes-574477.html,,,todo
+2,Olivier Berisson,47,http://martiniqueannu.com/martiniquais-celebre/olivier-berisson,,,todo
+3,Philippe Jock,60,http://martiniqueannu.com/martiniquais-celebre/philippe-jock,,,todo
+4,Serge Letchimy,68,https://fr.wikipedia.org/wiki/Serge_Letchimy,,,en attente 2021-05-06
+5,Alfred Marie-Jeanne,84,https://fr.wikipedia.org/wiki/Alfred_Marie-Jeanne,,,en attente 2021-05-06
+6,Ralph Monplaisir,73,https://groupemonplaisir.com/index.php?id_rubrique=108&id_article=454,,,todo
+7,Yan Monplaisir,69,https://groupemonplaisir.com/index.php?id_rubrique=108&id_article=454,,,en attente 2021-05-06
+8,Jean-Philippe Nilor,55,https://fr.wikipedia.org/wiki/Jean-Philippe_Nilor,,,en attente 2021-05-06
+9,Max Orville,59,http://modem-martinique.over-blog.com/pages/Biographie-de-max-orville-tete-de-liste-du-modem-martinique-pour-les-elections-regionales-2010-2668477.html,,,todo
+10,Philippe Petit,63,https://dirigeant.societe.com/dirigeant/Philippe.PETIT.60279952.html,,,todo
+11,Edryan Rangoly,23,https://dirigeant.societe.com/dirigeant/Edryan.RANGOLY.65264480.html,contre,non,telephone 2021-05-07
+12,Guy Ferdinand,53,https://dirigeant.societe.com/dirigeant/Guy.FERDINAND.24068805.html,,,todo
+13,Marcel Sellaye,67,https://www.pappers.fr/entreprise/msis-consultiing-ms-ingenierie-sociale-consulting-751942590,,,todo
+14,yann mievilly,38,https://dirigeant.societe.com/dirigeant/Yann.MIEVILLY.37264204.html,,,todo
+15,Gabriel Jean-Marie,65,,,,todo
+16,Daniel Robin,60,https://dirigeant.societe.com/dirigeant/Daniel.ROBIN.82625222.html,liberté choix,oui,email 2021-05-07
