@@ -1,20 +1,20 @@
 liste,section,position,nom,genre,age,liste_2015,Section_2015,position_2015,elu_2015
-5,Sud,1,Alfred Marie-Jeanne,m,84,,,,
-5,Fort-de-France,1,Francis Carole,m,63,,,,
+5,Sud,1,Alfred Marie-Jeanne,m,84,Liste Gran Sablé,Centre Atlantique,1,1
+5,Fort-de-France,1,Francis Carole,m,63,Liste Gran Sablé,Fort-de-France,1,1
 5,Centre Atlantique,1,Philippe Edmond-Mariette,m,65,,,,
-5,Nord,1,Justin Pamphile,m,52,,,,
-4,Fort-de-France,1,Serge Letchimy,m,68,,,,
+5,Nord,1,Justin Pamphile,m,52,Ensemble pour une Martinique Nouvelle,Nord,2,1
+4,Fort-de-France,1,Serge Letchimy,m,68,Ensemble pour une Martinique Nouvelle,Fort-de-France,1,1
 4,Centre Atlantique,1,Josette Manin ,f,71,,,,
 4,Nord,1,Bruno-Nestor Azérot,m,59,,,,
-4,Sud,1,Nicaise Monrose,m,60,,,,
-17,Fort-de-France,1,Catherine Conconne,f,58,,,,
+4,Sud,1,Nicaise Monrose,m,60,Ensemble pour une Martinique Nouvelle,Sud,1,1
+17,Fort-de-France,1,Catherine Conconne,f,58,Ensemble pour une Martinique Nouvelle,Fort-de-France,2,1
 17,Centre Atlantique,1,Marie-France Tinaut,f,,,,,
 17,Nord,1,Christian Rapha,m,66,,,,
 17,Sud,1,Fred-Michel Tirault,m,48,,,,
-7,Fort-de-France,1,Yan Monplaisir,m,69,,,,
-7,Centre Atlantique,1,Karine Mousseau,f,49,,,,
-7,Nord,1,Fred Lordinot,m,62,,,,
-7,Sud,1,Sylvia Saïthsoothane,f,,,,,
+7,Fort-de-France,1,Yan Monplaisir,m,69,LR,Nord,1,1
+7,Centre Atlantique,1,Karine Mousseau,f,49,LR,Centre Atlantique,1,1
+7,Nord,1,Fred Lordinot,m,62,Ensemble pour une Martinique Nouvelle,,,
+7,Sud,1,Sylvia Saïthsoothane,f,,LR,Sud,1,1
 3,Fort-de-France,1,Philippe Jock,m,60,,,,
 3,Centre Atlantique,1,Joëlle Jeanville-Linord,f,72,,,,
 3,Nord,1,Marie-Clotilde Hardy-Dessources,f,,,,,
@@ -23,11 +23,11 @@ liste,section,position,nom,genre,age,liste_2015,Section_2015,position_2015,elu_2
 6,Fort-de-France,1,Cédric Lutecette,m,36,,,,
 6,Centre Atlantique,1,François Samathay,m,61,,,,
 6,Sud,1,Audrey Giraud,f,33,,,,
-9,Fort-de-France,1,Max Orville,m,59,,,,
+9,Fort-de-France,1,Max Orville,m,59,LR,Sud,2,
 9,Centre Atlantique,1,Florent Grabin,m,70,,,,
-9,Nord,1,Elie Caronique,m,62,,,,ct
-9,Sud,1,Maurice Laouchez,m,79,,,,
-10,Sud,1,Philippe Petit,m,63,,,,
-10,Fort-de-France,1,Philippe Aline,m,56,,,,
-10,Centre Atlantique,1,Pierre Londy,m,50,,,,
-10,Nord,1,Astrid Rodap,f,51,,,,
+9,Nord,1,Elie Caronique,m,62,,,,
+9,Sud,1,Maurice Laouchez,m,79,LR,Sud,10,
+10,Sud,1,Philippe Petit,m,63,UDI,Sud,1,
+10,Fort-de-France,1,Philippe Aline,m,56,UDI,Fort-de-France,12,
+10,Centre Atlantique,1,Pierre Londy,m,50,UDI,Centre Atlantique,14,
+10,Nord,1,Astrid Rodap,f,51,Martinique Citoyenne,Centre Atlantique,14,
