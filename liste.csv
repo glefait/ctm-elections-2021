@@ -14,7 +14,7 @@ liste,section,position,nom,genre,age,age_approximation,liste_2015,Section_2015,p
 7,Fort-de-France,1,Yan Monplaisir,m,69,,LR,Nord,1,1
 7,Centre Atlantique,1,Karine Mousseau,f,49,,LR,Centre Atlantique,1,1
 7,Nord,1,Fred Lordinot,m,62,,Ensemble pour une Martinique Nouvelle,,,
-7,Sud,1,Sylvia Saïthsoothane,f,,,LR,Sud,1,1
+7,Sud,1,Sylvia Saïthsoothane,f,55,1,LR,Sud,1,1
 3,Fort-de-France,1,Philippe Jock,m,60,,,,,
 3,Centre Atlantique,1,Joëlle Jeanville-Linord,f,72,,,,,
 3,Nord,1,Marie-Clotilde Hardy-Dessources,f,60,1,,,,
@@ -33,7 +33,7 @@ liste,section,position,nom,genre,age,age_approximation,liste_2015,Section_2015,p
 10,Nord,1,Astrid Rodap,f,51,,Martinique Citoyenne,Centre Atlantique,14,
 1,Centre Atlantique,1,Béatrice Bellay,f,46,,,,,
 1,Fort-de-France,1,Daniel Robin,m,60,,Ensemble pour une Martinique Nouvelle,Centre Atlantique,7,
-1,Sud,1,Lucien Loury,m,,,,,,
+1,Sud,1,Lucien Loury,m,60,1,,,,
 1,Nord,1,Nadia Chonville,f,32,,,,,
 8,Sud,1,Jean-Philippe Nilor,m,55,,Liste Gran Sablé,Sud,1,
 8,Fort-de-France,1,Pascale Mouriesse,f,56,,,,,
