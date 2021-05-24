@@ -1,0 +1,897 @@
+,region_code,region_name,geo_code,geo_name,board_number,list_code,list_name,political_color,lead,position,gender,surname,name,birth_surname,birth_name,birthday,occupation,age
+17387,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,1,F,MANIN,Josette,MANIN,Josette,1950-03-16,Ancien cadre,71.19
+17388,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,2,M,MERINE,Félix,MERINE,Félix,1962-08-27,Chef d'entreprise de 10 salariés ou plus,58.74
+17389,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,3,F,TELLE,Patricia,ZAMON,Patricia,1959-12-12,Profession intermédiaire de la santé et du travail social,61.45
+17390,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,4,M,ZOBDA,David,ZOBDA,David,1959-01-05,Cadre administratif et commercial d'entreprise,62.38
+17391,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,5,F,THALY-BARDOL,Audrey,THALY,Audrey,1978-02-22,Cadre administratif et commercial d'entreprise,43.25
+17392,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,6,M,CLIO,Fred,CLIO,Fred,1961-08-07,"Professeur, profession scientifique",59.79
+17393,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,7,F,TAUREL,Monette,TAUREL,Eléonore,1966-01-01,Agriculteur sur petite exploitation,55.39
+17394,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,8,M,MARIE-REINE,Olivier,MARIE-REINE,Olivier,1968-06-15,Artisan,52.94
+17395,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,9,F,ETIENNE-NOTTE,Yannick,ETIENNE-NOTTE,Yannick,1970-01-24,Employé civil et agent de service de la fonction publique,51.33
+17396,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,10,M,LAGIER,Georges-Henri,LAGIER,Georges-Henri,1958-01-26,Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité),63.32
+17397,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,11,F,AJOUP-GUSTO,Sylvie,AJOUP,Sylvie,1963-05-17,Cadre de la fonction publique,58.02
+17398,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,12,M,FONDELOT,Thierry,FONDELOT,Thierry,1970-06-19,Employé civil et agent de service de la fonction publique,50.93
+17399,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,13,F,CAVALIER,Rostita,CAVALIER,Rostita,1974-09-10,Employé civil et agent de service de la fonction publique,46.7
+17400,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,14,M,PIDERI,Charles,PIDERI,Macaire,1954-02-01,Agriculteur sur moyenne exploitation,67.31
+17401,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,15,F,EUGENIE,Nicaise,EUGENIE,Nicaise,1948-02-25,Ancien cadre,73.24
+17402,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,16,M,SIVAGER,Alexandre,SIVAGER,Alexandre,1995-05-05,Chef d'entreprise de 10 salariés ou plus,26.05
+17403,2,Martinique,ZB1, Centre,1,5,ALIANS MATINIK,LDVG,Non,17,F,VILLARSIN,Hermine,VILLARSIN,Hermine,1959-11-15,Employé administratif d'entreprise,61.52
+17404,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,1,M,AZEROT,Bruno Nestor,AZEROT,Bruno,1961-07-22,Commerçant et assimilé,59.84
+17405,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,2,F,DULYS-PETIT,Jenny,DULYS,Jenny,1953-01-15,Ancien cadre,68.35
+17406,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,3,M,ECANVIL,Jean-Claude,ECANVIL,Bruno,1952-06-10,Ancien cadre,68.95
+17407,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,4,F,LARGEN-MARINE,Yolène,MARINE,Denise,1958-09-30,Profession libérale,62.65
+17408,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,5,M,ISMAIN,Félix,ISMAIN,Félix,1952-02-20,Ancien cadre,69.26
+17409,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,6,F,CASIMIRIUS,Marie Thérèse,CASIMIRIUS,Marie,1954-05-29,Ancien cadre,66.99
+17410,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,7,M,SALIBER,Lucien,SALIBER,Lucien,1951-10-24,Ancien cadre,69.58
+17411,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,8,F,TERMON,Séverine,TERMON,Séverine,1983-12-05,Profession libérale,37.47
+17412,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,9,M,DUFEAL,Eric,DUFEAL,Eric,1965-10-23,Cadre de la fonction publique,55.58
+17413,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,10,F,BEAULIEU,Lydia,BEAULIEU,Lydia,1974-06-22,Ingénieur et cadre technique d'entreprise,46.92
+17414,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,11,M,MARIE-LOUISE,Jean-Louis,MARIE-LOUISE,Jean-Louis,1969-10-09,Chef d'entreprise de 10 salariés ou plus,51.62
+17415,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,12,F,GENOT PLESDIN,Rose-Marie,GENOT,Rose-Marie,1958-05-22,Commerçant et assimilé,63.01
+17416,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,13,M,COLER,Thierry,COLER,Thierry,1965-12-28,Cadre de la fonction publique,55.4
+17417,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,14,F,PAMPHILE,Véronique,PAMPHILE,Véronique,1965-08-16,Cadre administratif et commercial d'entreprise,55.77
+17418,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,15,M,BONTE,Maurice,BONTE,Sylvère,1949-06-20,Ancien cadre,71.93
+17419,2,Martinique,ZB2, Nord,1,5,ALIANS MATINIK,LDVG,Non,16,F,"ROY-BELLEPLAINE, CLEMENTE","Stéphanie, Christiane",ROY-BELLEPLAINE,Stéphanie,1950-11-28,Ancien cadre,70.49
+17420,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Oui,1,M,LETCHIMY,Serge,LETCHIMY,Serge,1953-01-13,Ancien cadre,68.36
+17421,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,2,F,DI GERONIMO,Bénédicte,DI GERONIMO,Bénédicte,1977-11-12,Cadre administratif et commercial d'entreprise,43.53
+17422,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,3,M,LAGUERRE,Didier,LAGUERRE,Didier,1966-10-01,"Professeur, profession scientifique",54.64
+17423,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,4,F,MONROSE,Michelle,MONROSE,Michelle,1984-07-11,"Professeur, profession scientifique",36.87
+17424,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,5,M,DUVERGER,Jean-Claude,DUVERGER,Jean-Claude,1948-06-14,Ancien cadre,72.94
+17425,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,6,F,CASANOVA,Sandra,CASANOVA,Sandra,1975-03-29,Chef d'entreprise de 10 salariés ou plus,46.15
+17426,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,7,M,VENTADOUR,Alexandre,VENTADOUR,Alexandre,1981-04-13,Chef d'entreprise de 10 salariés ou plus,40.11
+17427,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,8,F,RAVIN,Marie-Ange,RAVIN,Marie-Ange,1951-05-05,Artisan,70.05
+17428,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,9,M,CHAMMAS,Charles,CHAMMAS,Charles,1965-06-30,"Professeur, profession scientifique",55.9
+17429,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,10,F,VERTALE LORIOT,Valérie,VERTALE,Valérie,1974-04-16,"Professeur, profession scientifique",47.1
+17430,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,11,M,GHUNAIM,Manuel,GHUNAIM,Manuel,1973-04-14,"Professeur, profession scientifique",48.11
+17431,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,12,F,ALEINS,Audrey,ALEINS,Audrey,1980-03-25,Employé administratif d'entreprise,41.16
+17432,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,13,M,BLEZES,José,BLEZES,José,1958-06-28,Cadre de la fonction publique,62.9
+17433,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,14,F,JOACHIM MIRVILLE,Sabrina,JOACHIM,Sabrina,1986-05-14,Employé administratif d'entreprise,35.03
+17434,2,Martinique,ZB3, Fort-de-France,1,5,ALIANS MATINIK,LDVG,Non,15,M,MICHAUX,Charles-Henri,MICHAUX,Octave,1945-01-04,Ancien cadre,76.38
+17435,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,1,M,MONROSE,Nicaise,MONROSE,Nicaise,1961-09-24,Cadre administratif et commercial d'entreprise,59.66
+17436,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,2,F,PANZO,Jocelyne,ADIGERY,Paulette,1956-01-30,Ancien employé,65.31
+17437,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,3,M,RENE-CORAIL,Arnaud,RENE-CORAIL,Arnaud,1954-05-03,Ancien cadre,67.06
+17438,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,4,F,DUNON,Rosalie,DUNON,Native,1951-08-09,Ancien employé,69.79
+17439,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,5,M,ODONNAT,Fernand Bruno,ODONNAT,Fernand,1965-06-10,Chef d'entreprise de 10 salariés ou plus,55.95
+17440,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,6,F,ACCUS ADAINE,Nadia,ACCUS,Nadia,1975-07-17,"Professeur des écoles, instituteur et assimilé",45.85
+17441,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,7,M,DINAL,David,DINAL,Laurent,1952-10-08,Profession libérale,68.62
+17442,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,8,F,BELLAY RAVION,Léa,BELLAY,Léa,1971-01-08,"Professeur des écoles, instituteur et assimilé",50.37
+17443,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,9,M,TOUSSAY,Hervé,TOUSSAY,Hervé,1959-10-18,Chef d'entreprise de 10 salariés ou plus,61.6
+17444,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,10,F,"BRUSSET, LUCE-VERONIQUE",Lydie,LUCE-VERONIQUE,Lydie,1959-12-18,"Professeur, profession scientifique",61.43
+17445,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,11,M,TELGA,Jimmy,TELGA,Jimmy,1985-09-30,Employé civil et agent de service de la fonction publique,35.65
+17446,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,12,F,PIQUIONNE,Christelle,PIQUIONNE,Christelle,1979-09-06,Profession intermédiaire de la santé et du travail social,41.71
+17447,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,13,M,MAURICE,José,MAURICE,José,1962-11-22,Agriculteur sur moyenne exploitation,58.5
+17448,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,14,F,PIERRE-EMILE,Marcelle,PIERRE-EMILE,Marcelle,1981-04-23,Cadre administratif et commercial d'entreprise,40.08
+17449,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,15,M,CABIT,Frantz,CABIT,Frantz,1962-10-10,Chef d'entreprise de 10 salariés ou plus,58.62
+17450,2,Martinique,ZB4, Sud,1,5,ALIANS MATINIK,LDVG,Non,16,F,"LOUIS-THERESE, BURLET",Patricia,LOUIS-THERESE,Patricia,1971-02-16,Employé civil et agent de service de la fonction publique,50.27
+17451,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,1,F,BONHEUR,Rita,BONHEUR,Rita,1958-07-01,Cadre de la fonction publique,62.9
+17452,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,2,M,RAYMOND,Franck,RAYMOND,Franck,1953-10-28,Ancien employé,67.57
+17453,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,3,F,RANGOLY,Jacqueline,RANGOLY,Mariee,1951-04-25,Profession intermédiaire de la santé et du travail social,70.08
+17454,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,4,M,RELAUTTE,Félix,RELAUTTE,Félix,1939-05-30,"Professeur, profession scientifique",81.98
+17455,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,5,F,CAGE,Nicole,CAGE,Nicole,1965-12-09,"Profession de l'information, des arts et des spectacles",55.46
+17456,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,6,M,LAGIER,Fred,LAGIER,Fred,1977-10-17,Technicien,43.6
+17457,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,7,F,MILIDATE,Rose-Hélène,MILIDATE,Rose-Hélène,1974-04-22,Profession intermédiaire administrative et commerciale des entreprises,47.09
+17458,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,8,M,RICHARDSON,Patrick,RICHARDSON,Patrick,1959-02-09,Employé de commerce,62.29
+17459,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,9,F,LOUIS-MIRTILE,Géraldine,LOUIS-MIRTILE,Géraldine,1975-05-19,Employé de commerce,46.02
+17460,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,10,M,JEANNET,Jean-Marc,JEANNET,Jean-Marc,1963-05-06,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),58.05
+17461,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,11,F,BONHEUR,Mélody,BONHEUR,Mélody,1989-08-05,Employé administratif d'entreprise,31.8
+17462,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,12,M,ROSIER-COCO,Victor,ROSIER-COCO,Victor,1950-02-25,Employé de commerce,71.24
+17463,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,13,F,NIVERT,Gabrielle,NIVERT,Gabrielle,1964-09-28,Employé de commerce,56.65
+17464,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,14,M,RENEL,François,RENEL,François,1954-08-23,Artisan,66.75
+17465,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,15,F,JEAN-BAPTISTE,Rosalie,JEAN-BAPTISTE,Rosalie,1971-10-25,Ingénieur et cadre technique d'entreprise,49.58
+17466,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,16,M,LANDAU,Pierre-Philippe,LANDAU,Pierre-Philippe,1958-02-14,"Professeur, profession scientifique",63.27
+17467,2,Martinique,ZB1, Centre,2,16,RESPE,LEXG,Non,17,F,LINISE,Maguy,LINISE,Maguy,1955-03-24,Profession intermédiaire de la santé et du travail social,66.17
+17468,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Oui,1,M,SELLAYE,Marcel,SELLAYE,Marcel,1954-06-17,Profession intermédiaire de la santé et du travail social,66.93
+17469,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,2,F,BROCHE,Marie-Louise,BROCHE,Marie-Louise,1952-06-01,Ancienne profession intermédiaire,68.98
+17470,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,3,M,DELAGE,Denis,DELAGE,Denis,1950-01-09,Ancienne profession intermédiaire,71.37
+17471,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,4,F,BELLEAU,Sonia,BELLEAU,Sonia,1961-03-05,Profession intermédiaire de la santé et du travail social,60.22
+17472,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,5,M,AÏNAMA,Garry,AÏNAMA,Garry,1983-11-30,"Professeur des écoles, instituteur et assimilé",37.48
+17473,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,6,F,DUCART,Denise,DUCART,Denise,1955-03-01,Ancienne profession intermédiaire,66.23
+17474,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,7,M,HERELLE,Youri,HERELLE,Youri,1988-10-08,Artisan,32.62
+17475,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,8,F,ANGELO,Léa,ANGELO,Léa,1972-10-31,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),48.56
+17476,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,9,M,GRANJEAN,Frédéric,GRANDJEAN,Frédéric,1965-09-09,Commerçant et assimilé,55.7
+17477,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,10,F,RETOUR,Vanessa,RETOUR,Vanessa,1982-11-29,Profession intermédiaire administrative et commerciale des entreprises,38.48
+17478,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,11,M,CARUGE,Jean,CARUGE,Jean,1945-11-25,Ancienne profession intermédiaire,75.49
+17479,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,12,F,GUIOUBLY,Francine,GUIOUBLY,Francine,1965-01-02,Employé administratif d'entreprise,56.39
+17480,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,13,M,SELLAYE,Benjamin,SELLAYE,Benjamin,1957-03-31,Ancien cadre,64.15
+17481,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,14,F,CORBION,Alicia,CORBION,Alicia,1972-12-18,Profession intermédiaire administrative de la fonction publique,48.43
+17482,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,15,M,VITULIN,Jonathan,VITULIN,Jonathan,1990-03-22,Employé de commerce,31.17
+17483,2,Martinique,ZB2, Nord,2,16,RESPE,LEXG,Non,16,F,CHARLES,Nicole,CHARLES,Nicole,1951-12-28,Cadre de la fonction publique,69.4
+17484,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,1,M,PIERRE-CHARLES,Philippe,PIERRE-CHARLES,Philippe,1946-02-02,"Professeur, profession scientifique",75.3
+17485,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,2,F,HARDY-DESSOURCES,Marie-Josèphe,HARDY-DESSOURCES,Marie-Josèphe,1954-08-29,"Professeur, profession scientifique",66.74
+17486,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,3,M,DORLEANS,Max,DORLEANS,Max,1952-01-27,Ancien cadre,69.32
+17487,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,4,F,CHICOT,Claudia,CHICOT,Claudia,1965-11-20,Employé de commerce,55.51
+17488,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,5,M,BEROL,Marcel,BEROL,Marcel,1968-09-09,Employé civil et agent de service de la fonction publique,52.7
+17489,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,6,F,JEAN-BAPTISTE,Valérie,JEAN-BAPTISTE,Valérie,1969-06-08,Employé de commerce,51.96
+17490,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,7,M,MAHIER,Marc,MAHIER,Marc,1988-06-24,Ouvrier qualifié de type artisanal,32.91
+17491,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,8,F,CRETINOIR,Flora,CRETINOIR,Flora,1959-12-10,Employé civil et agent de service de la fonction publique,61.45
+17492,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,9,M,FLAVIEN,Emile,FLAVIEN,Emile,1954-01-21,Ancienne profession intermédiaire,67.34
+17493,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,10,F,CLEMENT,Emmanuelle,CLEMENT,Emmanuelle,1963-07-09,"Professeur des écoles, instituteur et assimilé",57.88
+17494,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,11,M,GERMACK,Jean-Baptiste,GERMACK,Jean-Baptiste,1942-05-15,Ancienne profession intermédiaire,79.03
+17495,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,12,F,CHEVRY,Yvette,CHEVRY,Marie,1973-11-03,Employé de commerce,47.55
+17496,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,13,M,BOIS,Alain,BOIS,Alain,1955-10-07,Profession intermédiaire de la santé et du travail social,65.63
+17497,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,14,F,COUDIN,Denise,FAUGERON,Denise,1964-03-29,Personnel des services directs aux particuliers,57.15
+17498,2,Martinique,ZB3, Fort-de-France,2,16,RESPE,LEXG,Non,15,M,BOUHOT,Gérard,BOUHOT,Gérard,1952-04-28,Ancien cadre,69.07
+17499,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,1,F,ARNAULD,George,ARNAULD,George,1953-06-03,Ancienne profession intermédiaire,67.97
+17500,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,2,M,CELESTIN,Fabrice,CELESTIN,Fabrice,1967-07-24,Employé de commerce,53.83
+17501,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,3,F,SELLAYE,Laura,SELLAYE,Laura,1985-11-27,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),35.49
+17502,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,4,M,CONCY,Philippe,CONCY,Philippe,1942-11-26,Ancienne profession intermédiaire,78.49
+17503,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,5,F,CIDALISE,Michèle,CIDALISE,Michèle,1955-05-26,"Professeur, profession scientifique",66.0
+17504,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,6,M,NADIR,Laurent,NADIR,Laurent,1963-08-13,Technicien,57.78
+17505,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,7,F,PICOULY,Armande,PICOULY,Armande,1967-03-10,Employé de commerce,54.21
+17506,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,8,M,FONTAINE,Alfred,FONTAINE,Alfred,1950-11-10,Profession intermédiaire administrative de la fonction publique,70.54
+17507,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,9,F,JEAN-CHRISTOPHE,Annie,JEAN-CHRISTOPHE,Annie,1963-12-27,Profession intermédiaire de la santé et du travail social,57.41
+17508,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,10,M,HIERSO,Elie,HIERSO,Elie,1959-04-26,Profession intermédiaire de la santé et du travail social,62.08
+17509,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,11,F,MARTINY,Dominique,MARTINY,Dominique,1969-04-08,Employé de commerce,52.13
+17510,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,12,M,LANOIX,Pierre,LANOIX,Pierre,1971-04-19,Technicien,50.1
+17511,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,13,F,DONDON,Jeanne,DONDON,Jeanne,1937-04-20,Ancienne profession intermédiaire,84.09
+17512,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,14,M,SABIN,Myo,SABIN,Myo,1981-05-13,"Ouvrier qualifié de la manutention, du magasinage et du transport",40.03
+17513,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,15,F,BOURDIN,Annie,BOURDIN,Annie,1952-06-27,Profession intermédiaire administrative de la fonction publique,68.91
+17514,2,Martinique,ZB4, Sud,2,16,RESPE,LEXG,Non,16,M,APAT,René,APAT,Joseph,1957-03-29,Ancien cadre,64.15
+17515,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,1,M,TAVERNIER,Samuel,TAVERNIER,Joseph,1958-06-01,Ancien cadre,62.98
+17516,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,2,F,CHARLEC,Annick Sabas,CHARLEC,Annick,1962-05-12,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),59.03
+17517,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,3,M,PETITO,Patrick,PETITO,Pierre,1959-01-31,Ancienne profession intermédiaire,62.31
+17518,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,4,F,COLER,Gwladys Marie-Michelle,COLER,Gwladys,1983-10-01,Employé civil et agent de service de la fonction publique,37.65
+17519,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,5,M,AGOT,Emile Eloi,AGOT,Emile,1969-01-12,Chef d'entreprise de 10 salariés ou plus,52.36
+17520,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,6,F,TOUSSAINT,Tania Edith,TOUSSAINT,Tania,1986-11-06,Cadre administratif et commercial d'entreprise,34.55
+17521,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,7,M,HARNAIS,Wiltord,HARNAIS,Modeste,1960-03-13,"Professeur des écoles, instituteur et assimilé",61.2
+17522,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,8,F,TELLE,Louise,TELLE,Louise,1958-01-17,Cadre de la fonction publique,63.35
+17523,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,9,M,VERNEUIL-SAINTE-LUCE,David,VERNEUIL-SAINTE-LUCE,Olivier,1979-01-13,"Professeur des écoles, instituteur et assimilé",42.36
+17524,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,10,F,LITTRE EPOUSE JEAN-BAPTISTE-AUGUSTIN,Nadiège,LITTRE,Nadiège,1972-02-03,Chef d'entreprise de 10 salariés ou plus,49.3
+17525,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,11,M,BARTHELERY,Richard,BARTHELERY,Richard,1952-07-03,Ancien cadre,68.89
+17526,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,12,F,ARINNE,Miguelle Calixte,ARINNE,Miguelle,1970-10-14,"Professeur, profession scientifique",50.61
+17527,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,13,M,LANOIX,Jean,LANOIX,Jean,1955-06-17,Ancien cadre,65.94
+17528,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,14,F,DE GONZALGUE,Catherine,DE GONZALGUE,Catherine,1971-04-03,Profession intermédiaire administrative et commerciale des entreprises,50.14
+17529,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,15,M,OCTAVIE,Paul Alain,OCTAVIE,Paul,1957-01-26,Artisan,64.32
+17530,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,16,F,BAUR,Marie-Hélène,BAUR,Marie-Hélène,1980-11-12,Employé civil et agent de service de la fonction publique,40.53
+17531,2,Martinique,ZB1, Centre,3,14,ANSAM POU PEYI NOU,LREG,Non,17,M,FERJUL,Philippe,FERJUL,Philippe,1961-01-27,Technicien,60.32
+17532,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,1,M,NADEAU,Marcellin,NADEAU,Marcelin,1962-02-11,Cadre de la fonction publique,59.28
+17533,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,2,F,KECLARD-MONDESIR,Manuela,KECLARD,Manuela,1971-06-05,Cadre de la fonction publique,49.97
+17534,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,3,M,MARTINE,Raphaël,MARTINE,Raphaël,1953-02-03,Ancienne profession intermédiaire,68.3
+17535,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,4,F,RENARD,Nadine,RENARD,Nadine,1973-06-26,Profession libérale,47.91
+17536,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,5,M,SAINTE-ROSE-ROSEMOND,Franck,SAINTE-ROSE-ROSEMOND,Franck,1969-04-05,Cadre de la fonction publique,52.13
+17537,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,6,F,SABINE,Jocelyne,SABINE,Jocelyne,1950-07-29,Ancien cadre,70.82
+17538,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,7,M,GRIFFIT,Louis-Georges,GRIFFIT,Louis-Georges,1972-07-29,Cadre de la fonction publique,48.82
+17539,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,8,F,YERRO,Cynthia,YERRO,Cynthia,1992-07-16,Profession intermédiaire administrative et commerciale des entreprises,28.85
+17540,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,9,M,CAPRON,Kévin,CAPRON,Kévin,1992-03-10,Profession libérale,29.2
+17541,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,10,F,SAINT-AIME,Sandrine,SAINT-AIME,Sandrine,1973-02-19,Profession libérale,48.26
+17542,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,11,M,DULEME,Jean-François Elie,DULEME,Jean-François,1964-08-17,Employé civil et agent de service de la fonction publique,56.77
+17543,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,12,F,ALIKER,Christine,ALIKER,Christine,1953-08-09,Ancienne profession intermédiaire,67.79
+17544,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,13,M,ANNONAY,Guy,ANNONAY,Guy,1950-08-23,Ancien cadre,70.75
+17545,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,14,F,JEAN-ANGELE HAMADENE,Nadia,JEAN-ANGELE,Nadia,1964-12-03,Profession intermédiaire de la santé et du travail social,56.47
+17546,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,15,M,ESPARTERO,Jacky Timothée,ESPARTERO,Jacky,1954-01-24,Ancien employé,67.33
+17547,2,Martinique,ZB2, Nord,3,14,ANSAM POU PEYI NOU,LREG,Non,16,F,AGASTA,Youly,AGASTA,Youly,1976-12-26,"Professeur, profession scientifique",44.41
+17548,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,1,F,MOURIESSE,Pascale,MOURIESSE,Pascale,1965-08-03,Profession libérale,55.81
+17549,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,2,M,MALOUDA,Noé,MALOUDA,Noé,1959-12-26,"Professeur, profession scientifique",61.41
+17550,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,3,F,TOUL,Marie-France,TOUL,Marie-France,1965-02-27,Profession intermédiaire administrative de la fonction publique,56.24
+17551,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,4,M,BARCLAY,Jean-René,BARCLAY,Jean-René,1964-10-24,Cadre administratif et commercial d'entreprise,56.58
+17552,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,5,F,LESDEMA,Marie-Line,PIQUIONNE,Marie-Line,1960-05-07,Ingénieur et cadre technique d'entreprise,61.05
+17553,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,6,M,JOSEPH,Yves-André,JOSEPH,Yves-André,1953-03-04,Commerçant et assimilé,68.22
+17554,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,7,F,JOS,Nathalie,JOS,Nathalie,1966-11-24,"Profession de l'information, des arts et des spectacles",54.5
+17555,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,8,M,GROMAT,Georges Dit Joko,GROMAT,Albert,1962-10-09,Artisan,58.62
+17556,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,9,F,PRIVAT,Laëtitia,PRIVAT,Laëtitia,1980-07-25,Cadre administratif et commercial d'entreprise,40.83
+17557,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,10,M,RENARD,Thierry,RENARD,Thierry,1965-04-10,"Professeur, profession scientifique",56.12
+17558,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,11,F,ULRIC,Yvonne,ULRIC,Yvonne,1953-05-03,Artisan,68.06
+17559,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,12,M,ETILE,Hervé,ETILE,Hervé,1968-07-03,Profession libérale,52.89
+17560,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,13,F,AUGUSTIN,Lijy,AUGUSTIN,Lijy,1977-12-01,Employé civil et agent de service de la fonction publique,43.48
+17561,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,14,M,ORA,Jean-Panel,ORA,Jean-Panel,1984-06-11,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),36.95
+17562,2,Martinique,ZB3, Fort-de-France,3,14,ANSAM POU PEYI NOU,LREG,Non,15,F,MARINE,Daniella,MARINE,Daniella,1972-03-05,"Ouvrier qualifié de la manutention, du magasinage et du transport",49.22
+17563,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Oui,1,M,NILOR,Jean-Philippe,NILOR,Jean-Philippe,1965-05-15,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),56.02
+17564,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,2,F,NELLA,Aurélie,NELLA,Aurélie,1985-04-05,Employé administratif d'entreprise,36.13
+17565,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,3,M,BEAUNOL,Jean-François Emmanuel,BEAUNOL,Jean-François,1962-12-30,Cadre administratif et commercial d'entreprise,58.4
+17566,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,4,F,HENDERSON,Christelle,MOUCLE,Christelle,1978-02-02,"Professeur des écoles, instituteur et assimilé",43.3
+17567,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,5,M,CLEON,Georges,CLEON,Daniel,1950-03-01,Ancien cadre,71.23
+17568,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,6,F,BONNAIRE,Michelle,BONNAIRE,Michelle,1974-08-10,Technicien,46.79
+17569,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,7,M,TOUSSAY,Hugues,TOUSSAY,Hugues,1971-10-12,"Professeur des écoles, instituteur et assimilé",49.62
+17570,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,8,F,PLANTIN,Maryse,PLANTIN,Maryse,1957-10-03,Ancien employé,63.64
+17571,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,9,M,LOUIS-REGIS,Denis,LOUIS-REGIS,Denis,1973-10-30,Ingénieur et cadre technique d'entreprise,47.56
+17572,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,10,F,BOISNOIR,Aurélie,BOISNOIR,Aurélie,1990-01-24,"Professeur, profession scientifique",31.33
+17573,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,11,M,FERDINAND,Jérémie,FERDINAND,Jérémie,1989-04-21,Profession intermédiaire administrative de la fonction publique,32.09
+17574,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,12,F,ELISABETH,Yasmina,ELISABETH,Yasmina,1995-05-04,Profession libérale,26.06
+17575,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,13,M,ROSILLETTE,Roland,ROSILLETTE,Roland,1962-11-09,Cadre administratif et commercial d'entreprise,58.54
+17576,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,14,F,JOACHIM,Maguy,JOACHIM,Maguy,1962-05-09,Profession intermédiaire de la santé et du travail social,59.04
+17577,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,15,M,BESSARD,Michel-Henri,BESSARD,Michel-Henri,1960-07-02,Profession intermédiaire administrative de la fonction publique,60.89
+17578,2,Martinique,ZB4, Sud,3,14,ANSAM POU PEYI NOU,LREG,Non,16,F,BERISSON,Anne,BERISSON,Anne,1961-02-03,Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité),60.3
+17579,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,1,M,GRABIN,Florent,GRABIN,Clément,1950-11-24,Chef d'entreprise de 10 salariés ou plus,70.5
+17580,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,2,F,FERREIRA,Otilia,FERREIRA,Otilia,1957-12-05,Profession libérale,63.47
+17581,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,3,M,DE REYNAL,Emmanuel,DE REYNAL,Emmanuel,1965-10-09,Chef d'entreprise de 10 salariés ou plus,55.62
+17582,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,4,F,JOUGON,Jacqueline,FOURLIN,Bernard,1965-08-20,Profession intermédiaire administrative et commerciale des entreprises,55.76
+17583,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,5,M,JOSEPH-HENRI,Yvon,JOSEPH-HENRI,Yvon,1948-01-09,Ancien cadre,73.37
+17584,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,6,F,PAROT,Victoire,PAROT,Victoire,1958-12-18,Technicien,62.43
+17585,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,7,M,FOURLIN,Francky,FOURLIN,Francky,1959-04-22,Technicien,62.09
+17586,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,8,F,RICHOL,Ellen,RICHOL,Ellen,1973-07-13,"Professeur, profession scientifique",47.86
+17587,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,9,M,BROCHARD,Jérôme,BROCHARD,Jérôme,1974-12-27,Commerçant et assimilé,46.41
+17588,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,10,F,ANTONI,Véronique,ANTONI,Véronique,1959-08-05,Employé de commerce,61.8
+17589,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,11,M,GOUAIT,Julien,GOUAIT,Camille,1947-12-07,Ancien cadre,73.46
+17590,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,12,F,LAVIER,Linda,LAVIER,Linda,1974-02-05,Profession intermédiaire de la santé et du travail social,47.3
+17591,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,13,M,PERITO,Olivier,PERITO,Olivier,1976-03-16,Cadre administratif et commercial d'entreprise,45.19
+17592,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,14,F,EUPHROSINE,Marie-Line,EUPHROSINE,Marie-Line,1970-09-25,Profession intermédiaire de la santé et du travail social,50.66
+17593,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,15,M,JEAN-BAPTISTE-EDOUARD,Jean-Claude,JEAN-BAPTISTE-EDOUARD,Jean-Claude,1955-01-03,Ancienne profession intermédiaire,66.39
+17594,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,16,F,FRANCIL,Katia Agnès,FRANCIL,Katia,1975-01-21,Employé de commerce,46.34
+17595,2,Martinique,ZB1, Centre,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,17,M,VERJUT,Jean-Claude,VERJUT,Jean-Claude,1948-04-02,Chef d'entreprise de 10 salariés ou plus,73.14
+17596,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,1,M,CARONIQUE,Elie,CARONIQUE,Elie,1959-01-14,Technicien,62.36
+17597,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,2,F,GAMESS,Eline,GAMESS,Eline,1959-03-18,Profession libérale,62.18
+17598,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,3,M,MARAN,Raoul,MARAN,Raoul,1950-04-20,Ancien cadre,71.09
+17599,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,4,F,ROBINEL,Régine,ROBINEL,Régine,1972-03-19,Commerçant et assimilé,49.18
+17600,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,5,M,PILLOME,Bruno,PILLOME,Bruno,1966-09-18,Personnel des services directs aux particuliers,54.68
+17601,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,6,F,PARACLET,Françoise,JEAN-PHILIPPE,Françoise,1953-07-02,Ancien cadre,67.89
+17602,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,7,M,ZALI,Christophe,ZALI,Christophe,2001-02-05,"Elève, étudiant",20.3
+17603,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,8,F,JANVION,Joséphine,BRISSIERE,Josèphe,1948-03-19,Ancien employé,73.18
+17604,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,9,M,BATAILLE,Charles,BATAILLE,Charles,1970-09-19,"Contremaître, agent de maîtrise",50.68
+17605,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,10,F,LAUTONE,Agnès,LAUTONE,Agnès,1965-09-03,"Professeur, profession scientifique",55.72
+17606,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,11,M,GATEAU,Victor,GATEAU,Victor,1957-11-09,Agriculteur sur petite exploitation,63.54
+17607,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,12,F,ROCHAMBEAU,Giovanna,ROCHAMBEAU,Giovanna,1986-01-22,"Professeur des écoles, instituteur et assimilé",35.33
+17608,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,13,M,BRIDE,Yannis,BRIDE,Yannis,1976-02-01,Ingénieur et cadre technique d'entreprise,45.31
+17609,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,14,F,SAMATHAY,Christine,SAMATHAY,Christine,1983-08-27,Employé administratif d'entreprise,37.74
+17610,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,15,M,LESEL,Ayrton,LESEL,Ayrton,1999-05-17,"Elève, étudiant",22.02
+17611,2,Martinique,ZB2, Nord,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,16,F,PAPIN-LEPINE,Carine Angèle,PAPIN-LEPINE,Carine,1981-01-27,Employé administratif d'entreprise,40.32
+17612,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Oui,1,M,ORVILLE,Max,ORVILLE,Max-Léo,1962-06-19,"Professeur des écoles, instituteur et assimilé",58.93
+17613,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,2,F,SAMOT,Christelle,SAMOT,Christelle,1974-08-31,Cadre de la fonction publique,46.73
+17614,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,3,M,LESEL,Thierry,LESEL,Thierry,1960-11-28,Agriculteur sur petite exploitation,60.48
+17615,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,4,F,BALMY,Marie-Béatrice,BALMY,Marie-Béatrice,1970-11-19,Employé administratif d'entreprise,50.51
+17616,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,5,M,SANDRESCHI,Pierre,SANDRESCHI,Pierre,1961-09-05,Chef d'entreprise de 10 salariés ou plus,59.72
+17617,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,6,F,BALUSTRE,Betty,NOGIG,Betty,1964-09-21,"Professeur des écoles, instituteur et assimilé",56.67
+17618,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,7,M,REYNAL DE SAINT-MICHEL,Guillaume,REYNAL DE SAINT-MICHEL,Guillaume,1972-03-07,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),49.21
+17619,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,8,F,MATAR,Nicole,MATAR,Henriette,1954-06-12,Profession libérale,66.95
+17620,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,9,M,BRUNO,Louis,BRUNO,Louis,2002-05-02,"Elève, étudiant",19.06
+17621,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,10,F,JEAN-MARIE,Chantal,JEAN-MARIE,Chantal,1956-03-19,Profession intermédiaire administrative de la fonction publique,65.18
+17622,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,11,M,MONSORO,Vital,MONSORO,Vital,1958-04-23,Technicien,63.09
+17623,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,12,F,PAULA,Francette,PAULA,Francette,1963-05-09,Employé de commerce,58.04
+17624,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,13,M,JOX,Jérémie,JOX,Jérémie,1998-04-15,Personnel des services directs aux particuliers,23.11
+17625,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,14,F,ZALI,Isabelle,MOUKY,Isabelle,1975-02-08,Profession intermédiaire de la santé et du travail social,46.29
+17626,2,Martinique,ZB3, Fort-de-France,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,15,M,KICHENASSAMY,Paulin,KICHENASSAMY,Paulin,1945-11-10,Ancien employé,75.53
+17627,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,1,M,LAOUCHEZ,Maurice,LAOUCHEZ,Charles,1941-04-11,Ancien cadre,80.12
+17628,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,2,F,LATIF,Suzanne,LATIF,Suzanne,1957-12-25,Ancien cadre,63.41
+17629,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,3,M,ARDON,Josselin,ARDON,Josselin,1955-07-29,Ancien employé,65.82
+17630,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,4,F,RENE-CORAIL,Christelle,RENE-CORAIL,Christelle,1977-04-17,Employé civil et agent de service de la fonction publique,44.1
+17631,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,5,M,CHALONS,Fred,CHALONS,Fred,1964-12-02,Cadre administratif et commercial d'entreprise,56.47
+17632,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,6,F,VALGAIRE,Lise,VALGAIRE,Marie-Louise,1977-05-29,Profession intermédiaire de la santé et du travail social,43.99
+17633,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,7,M,VIGILANT,Boris,VIGILANT,Boris,1966-06-15,Employé civil et agent de service de la fonction publique,54.94
+17634,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,8,F,RAMSAHAÏ,Sandra,RAMSAHAÏ,Sandra,1973-02-14,Employé civil et agent de service de la fonction publique,48.27
+17635,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,9,M,AVRIL,Eric,AVRIL,Eric,1954-02-18,Ancien cadre,67.26
+17636,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,10,F,SAINT-CYR,Yasmine,SAINT-CYR,Yasmine,1989-08-17,Artisan,31.77
+17637,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,11,M,RUDIER,Kéran,RUDIER,Kéran,1989-07-16,Profession intermédiaire de la santé et du travail social,31.85
+17638,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,12,F,COMA,Gwenola,COMA,Gwenola,1991-02-20,Employé administratif d'entreprise,30.26
+17639,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,13,M,WURM,Daniel,WURM,Daniel,1950-05-30,Ancien cadre,70.98
+17640,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,14,F,ARDES,Marie-Line Louise,ARDES,Marie-Line,1961-08-25,Commerçant et assimilé,59.75
+17641,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,15,M,CLEORON,Jacques-Michel,CLEORON,Jacques-Michel,1955-03-22,Ancien cadre,66.17
+17642,2,Martinique,ZB4, Sud,4,8,RENAISSANCE MARTINIQUE,LMDM,Non,16,F,TISSEUR,Audrey,SANDRESCHI,Audrey,1986-01-17,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),35.35
+17643,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Oui,1,F,BELLAY,Béatrice,BELLAY,Béatrice,1975-07-25,Cadre de la fonction publique,45.83
+17644,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,2,M,BERET,Frédéric,BERET,Frédéric,1955-12-18,Technicien,65.43
+17645,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,3,F,BELONY,Maguy,BELONY,Maguy,1971-09-12,Agriculteur sur petite exploitation,49.7
+17646,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,4,M,CRISPIN,José Léonce,CRISPIN,José,1973-06-18,Technicien,47.93
+17647,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,5,F,DEROND,Dominique,DEROND,Dominique,1971-02-17,Cadre de la fonction publique,50.26
+17648,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,6,M,SURIAM,Denis Eric,SURIAM,Denis,1954-09-20,Ancien employé,66.67
+17649,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,7,F,THOMERT,Aurélie,THOMERT,Aurélie,1986-06-02,Profession intermédiaire de la santé et du travail social,34.98
+17650,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,8,M,LEBRUN,Thierry,LEBRUN,Thierry,1956-10-27,"Professeur, profession scientifique",64.57
+17651,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,9,F,ROSAMOND,Lucrécia,ROSAMOND,Lucrécia,1991-02-08,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),30.29
+17652,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,10,M,MOUTOUSSAMY,Jean-Philippe,MOUTOUSSAMY,Jean-Philippe,1958-08-20,Ouvrier agricole,62.76
+17653,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,11,F,BASSES,Séverine Pascale,BASSES,Séverine,1974-05-16,Cadre administratif et commercial d'entreprise,47.02
+17654,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,12,M,BOMPART,Frédéric François,BOMPART,Frédéric,1975-03-17,Ouvrier qualifié de type artisanal,46.19
+17655,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,13,F,GHUNAIM,Manuela,GHUNAIM,Manuela,1970-04-20,"Professeur, profession scientifique",51.09
+17656,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,14,M,VASSARD,Marc Erick,VASSARD,Marc,1958-04-26,Cadre de la fonction publique,63.08
+17657,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,15,F,DESTON,Angélique Nadège,DESTON,Angélique,1987-09-18,Artisan,33.68
+17658,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,16,M,GEVAR,Grégory,GEVAR,Grégory,1983-05-12,Ingénieur et cadre technique d'entreprise,38.03
+17659,2,Martinique,ZB1, Centre,5,13,NOU KA FE YONN,LDVG,Non,17,F,VALERY,Micheline,MOUTOUCOUMARO,Micheline,1959-08-05,Employé civil et agent de service de la fonction publique,61.8
+17660,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,1,F,CHONVILLE,Nadia,CHONVILLE,Nadia,1989-05-14,"Professeur, profession scientifique",32.03
+17661,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,2,M,GRIFFIT,Joël Marie,GRIFFIT,Joël,1962-08-15,Artisan,58.77
+17662,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,3,F,DELYON,Géraldine,DELYON,Géraldine,1977-04-17,Personnel des services directs aux particuliers,44.1
+17663,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,4,M,MAVOUNGO-NERET,Hugues,MAVOUNGO,Hugues,1982-07-13,Cadre de la fonction publique,38.86
+17664,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,5,F,DESROSES,Annick Danielle,DESROSES,Annick,1969-11-12,"Contremaître, agent de maîtrise",51.53
+17665,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,6,M,CEMERY,René Clément,CEMERY,René,1958-03-16,Commerçant et assimilé,63.19
+17666,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,7,F,LAMBERT,Danièle,BOULANGE,Danièle,1973-03-11,Profession intermédiaire administrative de la fonction publique,48.2
+17667,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,8,M,DINTIMILLE,Patrice,DINTIMILLE,Patrice,1973-02-17,Employé civil et agent de service de la fonction publique,48.26
+17668,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,9,F,LOUIS-STANISLAS,Aurélia,LOUIS-STANISLAS,Aurélia,1990-12-23,Cadre administratif et commercial d'entreprise,30.42
+17669,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,10,M,NAIGRE,Pascal Yves,NAIGRE,Pascal,1973-04-18,Cadre de la fonction publique,48.1
+17670,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,11,F,MARIE-ELEONCY,Luddy Josèphe,MARIE-ELEONCY,Luddy,1976-08-14,Cadre administratif et commercial d'entreprise,44.77
+17671,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,12,M,HIEU,Michel Luc,HIEU,Michel,1957-10-18,Cadre de la fonction publique,63.6
+17672,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,13,F,EMONIDES,Marie Chantal,EMONIDES,Marie,1965-01-14,Profession libérale,56.36
+17673,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,14,M,BIRON,Henri André,BIRON,Henri,1954-11-29,Ancien cadre,66.48
+17674,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,15,F,ZAMY,Marie-Ange Julienne,ZAMY,Marie-Ange,1957-05-08,Cadre administratif et commercial d'entreprise,64.04
+17675,2,Martinique,ZB2, Nord,5,13,NOU KA FE YONN,LDVG,Non,16,M,GASPALDY,José,GASPALDY,José,1967-10-04,Cadre administratif et commercial d'entreprise,53.64
+17676,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,1,M,ROBIN,Daniel,ROBIN,Daniel,1961-11-12,Chef d'entreprise de 10 salariés ou plus,59.53
+17677,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,2,F,JEAN-LOUIS,Rosette Germaine,JEAN-LOUIS,Rosette,1955-02-05,Ancien employé,66.3
+17678,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,3,M,VIOLAIN,Christophe,VIOLAIN,Christophe,1971-04-13,Cadre administratif et commercial d'entreprise,50.11
+17679,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,4,F,FIMBOU,Camélia,GALLONDE,Camélia,1986-07-23,"Elève, étudiant",34.84
+17680,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,5,M,PEMBELE,Ralph Christian,PEMBELE,Ralph,1973-11-13,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),47.53
+17681,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,6,F,LAURENDON,Sabine,LAURENDON,Sabine,1978-05-04,Cadre de la fonction publique,43.06
+17682,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,7,M,VOTIER,Ronald,VOTIER,Ronald,1990-05-25,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),31.0
+17683,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,8,F,COLMAN,Corinne,COLMAN,Corinne,1969-03-15,Commerçant et assimilé,52.19
+17684,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,9,M,NEROR,Wilfrid,NEROR,Wilfrid,1992-11-01,Profession intermédiaire administrative et commerciale des entreprises,28.56
+17685,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,10,F,ABATUCI,Livia,ABATUCI,Livia,1972-10-16,Chef d'entreprise de 10 salariés ou plus,48.6
+17686,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,11,M,MANUEL,Kenny,MANUEL,Kenny,1996-08-13,"Elève, étudiant",24.78
+17687,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,12,F,DIEUZEDE-COPHIRE,Dina,DIEUZEDE-COPHIRE,Dina,1971-03-03,Artisan,50.23
+17688,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,13,M,MARIE-MAGDELAINE,Jude,MARIE-MAGDELAINE,Jude,1983-08-08,Artisan,37.79
+17689,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,14,F,ALHIM,Dorothée Chantal,ALHIM,Dorothée,1966-01-27,Profession intermédiaire administrative de la fonction publique,55.32
+17690,2,Martinique,ZB3, Fort-de-France,5,13,NOU KA FE YONN,LDVG,Non,15,M,CONSTANTIN,Paul,CONSTANTIN,Paul,1961-04-24,Cadre administratif et commercial d'entreprise,60.08
+17691,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,1,M,LOURI,Lucien,LOURI,Lucien,1958-04-29,Ancien employé,63.07
+17692,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,2,F,GOLVET,Marie-Jeannisse,GOLVET,Marie-Jeannisse,1991-02-19,Technicien,30.26
+17693,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,3,M,DACHIR,Christian,DACHIR,Christian,1953-09-29,Agriculteur sur moyenne exploitation,67.65
+17694,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,4,F,LABONNE,Marietta,LABONNE,Marietta,1980-08-14,Profession intermédiaire de la santé et du travail social,40.77
+17695,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,5,M,BELLAY,Patrick Tiburce,BELLAY,Patrick,1964-04-14,Employé de commerce,57.11
+17696,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,6,F,BABO,Bertina Hyppolite,BABO,Bertina,1960-08-13,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),60.78
+17697,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,7,M,CABIT,Jean-Michel,CABIT,Jean-Michel,1972-08-03,Cadre de la fonction publique,48.8
+17698,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,8,F,BIZET,Sandrine Inès,BIZET,Sandrine,1986-06-15,Artisan,34.94
+17699,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,9,M,ZADICK,Anicet,ZADICK,Anicet,1990-06-28,Ingénieur et cadre technique d'entreprise,30.9
+17700,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,10,F,LECHEVALIER,Sylvie,LECHEVALIER,Sylvie,1967-02-10,Personnel des services directs aux particuliers,54.28
+17701,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,11,M,LAMON,Julien André,LAMON,Julien,1991-08-01,Profession libérale,29.81
+17702,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,12,F,HILDERAL,Carine,HILDERAL,Carine,1973-01-04,"Contremaître, agent de maîtrise",48.38
+17703,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,13,M,GINOT,Jean-Daniel,GINOT,Jean-Daniel,1989-09-11,Artisan,31.7
+17704,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,14,F,DUVAL,Marie-Ange,DUVAL,Marie-Ange,1972-11-11,"Ouvrier qualifié de la manutention, du magasinage et du transport",48.53
+17705,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,15,M,CIDOLIT,Nathaniel Brayane,CIDOLIT,Nathaniel,1990-02-15,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),31.27
+17706,2,Martinique,ZB4, Sud,5,13,NOU KA FE YONN,LDVG,Non,16,F,MUDARD,Marie Céline,MUDARD,Marie,1976-06-07,Profession libérale,44.96
+17707,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,1,M,LONDY,Pierre,LONDY,Pierre-Clément,1971-11-23,Commerçant et assimilé,49.5
+17708,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,2,F,MORMIN,Gladys,MORMIN,Gladys,1988-12-22,Commerçant et assimilé,32.42
+17709,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,3,M,NELIEN,Henri,NELIEN,Henri François,1961-12-28,Artisan,59.4
+17710,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,4,F,BELLEGARDE,Arienne,BELLEGARDE,Arienne Antoinette,1967-10-27,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),53.57
+17711,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,5,M,YANG-TING,Gaby,YANG-TING,Gaby Alain,1961-07-16,Profession intermédiaire administrative de la fonction publique,59.85
+17712,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,6,F,RAVIER,Myriam,RAVIER,Myriam Alexia,1976-02-17,Profession intermédiaire administrative et commerciale des entreprises,45.26
+17713,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,7,M,GRAND,Guy-André,GRAND,Guy-André,1971-04-08,Employé de commerce,50.13
+17714,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,8,F,POTIRON-MARTIAL,Eveline,POTIRON,Eveline Catherine,1956-11-25,"Ancien artisan, commerçant, chef d'entreprise",64.49
+17715,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,9,M,VENTADOUR,Kenny,VENTADOUR,Kenny Rodolphe,1987-11-26,Cadre administratif et commercial d'entreprise,33.49
+17716,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,10,F,VILLENEUVE ÉPOUSE GORON,Sophie,VILLENEUVE,Sophie,1965-09-20,Employé de commerce,55.67
+17717,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,11,M,LEPEL,Alex,LEPEL,Alex Dominique,1965-10-14,Profession intermédiaire de la santé et du travail social,55.61
+17718,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,12,F,JOUVAN,Monique,JOUVAN,Monique Julienne,1970-03-08,Profession intermédiaire administrative de la fonction publique,51.21
+17719,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,13,M,HIPPIAS,Thierry,HIPPIAS,Thierry Manuel,1979-04-20,Commerçant et assimilé,42.09
+17720,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,14,F,AMAR,Katia,AMAR,Katia Marie-Mickaël,1983-10-15,Profession intermédiaire de la santé et du travail social,37.61
+17721,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,15,M,VICTORIN,Joël,VICTORIN,Joël Maxime,1973-04-15,Ouvrier agricole,48.11
+17722,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,16,F,BRAVO,Murielle,BRAVO,Murielle Sylvie,1964-02-24,Commerçant et assimilé,57.25
+17723,2,Martinique,ZB1, Centre,6,2,MATINIK DOUBOUT !,LUDI,Non,17,M,MAZARIN,Rose,MAZARIN,Emmanuel-Rose,1948-03-26,Ancien cadre,73.16
+17724,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,1,F,RODAP,Astrid,RODAP,Astrid Valérie,1970-07-22,Profession libérale,50.84
+17725,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,2,M,OLIERE,Marcel Léopold,OLIERE,Léopold Marcel,1960-10-16,Profession libérale,60.6
+17726,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,3,F,TELUSSON,Line-Rose,LABRIDY,Line-Rose Odette,1973-04-21,Profession intermédiaire de la santé et du travail social,48.09
+17727,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,4,M,RANGUIN,Fabrice,RANGUIN,Fabrice Aimé,1978-02-20,Commerçant et assimilé,43.26
+17728,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,5,F,DEGREEF-CARASCO,Chantal,CARASCO,Chantal,1959-10-19,Commerçant et assimilé,61.6
+17729,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,6,M,GRANGENOIS,Roger,GRANGENOIS,Roger Pascal,1951-11-20,"Professeur des écoles, instituteur et assimilé",69.51
+17730,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,7,F,NOMER,Marie Nadine,NOMER,Marie Nadine,1983-03-03,Profession intermédiaire de la santé et du travail social,38.23
+17731,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,8,M,MARTIAL,Alexandre Emmanuel,MARTIAL,Alexandre Georges,1955-03-18,Ancien cadre,66.18
+17732,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,9,F,GODARD,Joëlle,GODARD,Joëlle Dominique,1959-04-08,Profession intermédiaire de la santé et du travail social,62.13
+17733,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,10,M,LARO,Ellias,LARO,Ellias Samuel,1982-12-30,Profession intermédiaire administrative et commerciale des entreprises,38.4
+17734,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,11,F,MONTOUT,Miguèle,MONTOUT,Miguèle Marguerite,1961-07-20,Profession intermédiaire administrative et commerciale des entreprises,59.84
+17735,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,12,M,JOLY,Joël,JOLY,Victor Joël,1959-12-23,Artisan,61.42
+17736,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,13,F,JEAN-BAPTISTE,Netty,JEAN-BAPTISTE,Netty Antoinette,1967-01-23,Profession intermédiaire administrative de la fonction publique,54.33
+17737,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,14,M,VERNON,Franceman,VERNON,Franceman Antoine,1957-01-17,Profession intermédiaire administrative et commerciale des entreprises,64.35
+17738,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,15,F,GRANGENOIS,Marcelle,GRANGENOIS,Marcelle Michèle,1947-11-23,Ancienne profession intermédiaire,73.5
+17739,2,Martinique,ZB2, Nord,6,2,MATINIK DOUBOUT !,LUDI,Non,16,M,ROSE-ANTOINETTE,Roberto,ROSE-ANTOINETTE,Roberto Louis,1965-03-15,Artisan,56.19
+17740,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,1,M,ALINE,Philippe,ALINE,Philippe Christophe,1964-07-25,Profession intermédiaire de la santé et du travail social,56.83
+17741,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,2,F,LECHALLIER,Lyne,LECHALLIER,Marguerite-Marie Lyne,1954-01-12,Cadre de la fonction publique,67.36
+17742,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,3,M,EUGENIA,Stéphan,EUGENIA,Stéphan Lambert,1978-05-28,Profession intermédiaire administrative et commerciale des entreprises,42.99
+17743,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,4,F,ESTRIPEAUT,Betty,ESTRIPEAUT,Berthe Solange,1957-08-11,Profession intermédiaire administrative et commerciale des entreprises,63.78
+17744,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,5,M,LEMONY,Raymond,LEMONY,Raymond Léon,1942-05-09,Ancien cadre,79.04
+17745,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,6,F,MARGUERITE,Marie-Gabrielle,MARGUERITE,Alexis Marie Gabrielle,1948-07-17,Ancien cadre,72.85
+17746,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,7,M,OPTALY,Jérémie,OPTALY,Jérémie Alexandre,1991-01-20,Technicien,30.34
+17747,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,8,F,PERASTE,Line,PERASTE,Line Wilfrid,1963-12-10,Commerçant et assimilé,57.45
+17748,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,9,M,ALPHONSINE,Christian,ALPHONSINE,Antoine,1952-01-17,Ancien employé,69.35
+17749,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,10,F,PIVETAL,Ghislaine,PIVETAL,Ghislaine Dominique,1972-04-27,Profession intermédiaire de la santé et du travail social,49.07
+17750,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,11,M,BAZILE,Ange,BAZILE,Ange Alain,1957-05-31,Profession intermédiaire de la santé et du travail social,63.98
+17751,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,12,F,OZEE EPOUSE LAMPLA,Doryane,OZEE,Doryane Diane,1981-06-05,Cadre administratif et commercial d'entreprise,39.97
+17752,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,13,M,ZIZI,Alex,ZIZI,Alex Mathias,1961-02-24,Commerçant et assimilé,60.24
+17753,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,14,F,NAROU,Elisa,NAROU,Elisa Eugène,1957-11-07,Commerçant et assimilé,63.54
+17754,2,Martinique,ZB3, Fort-de-France,6,2,MATINIK DOUBOUT !,LUDI,Non,15,M,BERNARD,Alex,BERNARD,Alex Félicité,1948-10-07,"Profession de l'information, des arts et des spectacles",72.63
+17755,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Oui,1,M,PETIT,Philippe,PETIT,Philippe,1957-05-16,"Ancien artisan, commerçant, chef d'entreprise",64.02
+17756,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,2,F,MOLE,Isabelle,COQUARD,Isabelle Paule,1961-04-29,Artisan,60.07
+17757,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,3,M,CYTHERE,Daniel,CYTHERE,Daniel,1971-05-06,Agriculteur sur moyenne exploitation,50.05
+17758,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,4,F,SAINTE-ROSE,Nathalie,SAINTE-ROSE,Nathalie Raoul,1965-06-21,Profession intermédiaire administrative de la fonction publique,55.92
+17759,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,5,M,SIVATTE,Philippe,SIVATTE,Philippe Ange,1962-02-10,"Professeur, profession scientifique",59.28
+17760,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,6,F,PICOT,Charlem,PICOT,Charlem,1987-06-02,Profession libérale,33.98
+17761,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,7,M,MALSA,Pierre,MALSA,Pierre Georges,1952-04-23,Commerçant et assimilé,69.08
+17762,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,8,F,BRAFINE,Hélène,BRAFINE,Hélène Clotilde,1967-03-06,Profession intermédiaire de la santé et du travail social,54.22
+17763,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,9,M,LETQUIMOUNIN,Jean Michel,LETQUIMOUNIN,Jean-Michel,1979-07-12,Artisan,41.87
+17764,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,10,F,BERNADINE,Judith,BERNADINE,Judith Sylvain,1966-02-17,Profession intermédiaire de la santé et du travail social,55.26
+17765,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,11,M,THELAMON,Tully,THELAMON,Tully Marie Jean,1957-01-01,Agriculteur sur petite exploitation,64.39
+17766,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,12,F,PARTY,Christelle,PARTY,Christelle Virginie,1981-11-09,Profession libérale,39.54
+17767,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,13,M,MARIE-SAINTE,Judes,MARIE-SAINTE,Judes Moïse,1959-11-25,Artisan,61.49
+17768,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,14,F,YAZZA,Soraya,YAZZA,Soraya Myriam,1978-07-17,Profession intermédiaire de la santé et du travail social,42.85
+17769,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,15,M,BAUDIN,Jean,BAUDIN,Jean-Germain,1944-05-28,Profession libérale,76.99
+17770,2,Martinique,ZB4, Sud,6,2,MATINIK DOUBOUT !,LUDI,Non,16,F,TANASI EPOUSE PETIT,Patricia,TANASI,Patricia Lucile,1965-10-31,Cadre administratif et commercial d'entreprise,55.56
+17771,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,1,F,JEANVILLE EPSE LINORD,Joel Christine,JEANVILLE,Joel,1949-07-24,Ancienne profession intermédiaire,71.83
+17772,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,2,M,JOSEPH,Jerome,JOSEPH,Jerome,1980-03-17,Commerçant et assimilé,41.19
+17773,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,3,F,MILLON-BERTILLE,Vanina Julie,MILLON,Vanina,1975-07-04,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),45.89
+17774,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,4,M,CAPGRAS,Nikita,CAPGRAS,Gontran,1962-03-28,Employé civil et agent de service de la fonction publique,59.16
+17775,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,5,F,REJON,Josiane Brigitte,REJON,Josiane,1954-08-10,Ancien cadre,66.79
+17776,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,6,M,MANSUELA,Gregory Daniel,MANSUELA,Gregory,1978-02-14,Technicien,43.27
+17777,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,7,F,REGIS,Sarah Emmanuelle,REGIS,Sarah,1983-10-20,Profession libérale,37.59
+17778,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,8,M,POTIRON,Mathias,POTIRON,Mathias,1957-02-24,Commerçant et assimilé,64.24
+17779,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,9,F,ZOBDA,Nadine,ZOBDA,Nadine,1960-06-21,Agriculteur sur petite exploitation,60.92
+17780,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,10,M,BARCLAIS,Romain Yves-André,BARCLAIS,Romain,1959-02-28,Profession libérale,62.23
+17781,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,11,F,MARTHE-ROSE,Catherine Olivier,MARTHE-ROSE,Catherine,1968-05-27,Cadre administratif et commercial d'entreprise,52.99
+17782,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,12,M,LORTO,Marie-Michel Daniel,LORTO,Marie,1953-09-21,"Professeur, profession scientifique",67.67
+17783,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,13,F,LONETE,Quelly Natacha,LONETE,Quelly,1983-02-11,Employé civil et agent de service de la fonction publique,38.28
+17784,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,14,M,CASTOR,Christophe Eddy,CASTOR,Christophe,1976-07-02,Personnel des services directs aux particuliers,44.89
+17785,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,15,F,CABRISSEAU,Sandra Marie,CABRISSEAU,Sandra,1971-03-30,Profession intermédiaire de la santé et du travail social,50.15
+17786,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,16,M,LETCHIMY,Julien,LETCHIMY,Emmanuel,1949-03-26,Ancienne profession intermédiaire,72.16
+17787,2,Martinique,ZB1, Centre,7,10,DECLIC,LDVC,Non,17,F,JOSEPH,Joannifer Chantal,JOSEPH,Joannifer,1966-11-12,"Elève, étudiant",54.53
+17788,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,1,F,HARDY-DESSOURCES,Marie Clotilde,HARDY-DESSOURCES,Marie,1956-07-04,Cadre de la fonction publique,64.89
+17789,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,2,M,CHOMET,Daniel,CHOMET,Daniel,1968-12-24,"Professeur, profession scientifique",52.41
+17790,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,3,F,RETORY,Audrey,LAURENT,Audrey,1973-10-14,Agriculteur sur petite exploitation,47.61
+17791,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,4,M,CAUVER,Jean-Frantz,CAUVER,Jean-Frantz,1953-08-11,Ancien cadre,67.78
+17792,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,5,F,SAINT-HONORE,Nicole,SAINT-HONORE,Nicole,1964-01-28,Commerçant et assimilé,57.32
+17793,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,6,M,ROMANA,Henri,ROMANA,Henri,1953-10-31,Ancien employé,67.56
+17794,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,7,F,JEAN,Marie-George,JEAN,Marie-George,1963-09-25,Cadre administratif et commercial d'entreprise,57.66
+17795,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,8,M,MALIDOR,Jean-Joseph,MALIDOR,Jean-Joseph,1956-06-03,Cadre de la fonction publique,64.97
+17796,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,9,F,CESTO,Eliane,CESTO,Eliane,1953-07-31,Ancien employé,67.81
+17797,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,10,M,NOLEO,Eric Felix,NOLEO,Eric,1958-11-06,Personnel des services directs aux particuliers,62.55
+17798,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,11,F,PHAROSE,Lucia,PHAROSE,Lucia,1967-02-27,Cadre de la fonction publique,54.24
+17799,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,12,M,HARPON,Georges Joel,HARPON,Georges,1968-07-14,Artisan,52.86
+17800,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,13,F,JESBAC,Line,JESBAC,Line,1971-04-18,Employé administratif d'entreprise,50.1
+17801,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,14,M,THALMENSY,Hilaire,THALMENSY,Hilaire,1956-05-05,Cadre de la fonction publique,65.05
+17802,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,15,F,CHABAL,Coralie,CHABAL,Coralie,2000-02-15,"Elève, étudiant",21.27
+17803,2,Martinique,ZB2, Nord,7,10,DECLIC,LDVC,Non,16,M,LOUISIN,Willy David,LOUISIN,Willy,1970-04-18,Cadre administratif et commercial d'entreprise,51.1
+17804,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Oui,1,M,JOCK,Philippe,JOCK,Philippe,1961-02-24,Profession libérale,60.24
+17805,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,2,F,HUNEL-OZIER LAFONTAINE,Laurence,OZIER LAFONTAINE,Laurence,1968-08-15,Profession libérale,52.77
+17806,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,3,M,PALCY,Vincent,PALCY,Louis -Marie,1952-01-22,Ancien cadre,69.34
+17807,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,4,F,EDON-ROMANA,Nicole,EDON,Lucie,1964-06-07,Profession intermédiaire administrative de la fonction publique,56.96
+17808,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,5,M,DOUBEL,Jean-Pierre,DOUBEL,Jean-Pierre,1961-06-03,Employé de commerce,59.97
+17809,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,6,F,CHARLES,Corine,CHARLES,Corine,1981-02-04,Profession libérale,40.3
+17810,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,7,M,JEAN-BAPTISTE,Victor,JEAN-BAPTISTE,Victor,1950-08-08,Ancien employé,70.79
+17811,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,8,F,CARBETY,Aurelie Andréa,CARBETY,Aurelie,1992-05-04,"Profession de l'information, des arts et des spectacles",29.05
+17812,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,9,M,LINISE,Alain,LINISE,Alain,1956-10-23,Profession libérale,64.58
+17813,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,10,F,JORITE,Marie-Laure,JORITE,Marie-Laure,1971-01-19,Personnel des services directs aux particuliers,50.34
+17814,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,11,M,NORBERT,Philippe,NORBERT,Philippe,1980-01-11,Employé de commerce,41.37
+17815,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,12,F,CHOMET EPOUSE ERICHER,Marilyne,CHOMET,Marilyne,1970-08-16,"Professeur, profession scientifique",50.77
+17816,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,13,M,GOUAIT,Raymond,GOUAIT,Marie,1952-01-21,Ancien cadre,69.34
+17817,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,14,F,APANON,Deborah,APANON,Deborah,1988-01-31,Employé de commerce,33.31
+17818,2,Martinique,ZB3, Fort-de-France,7,10,DECLIC,LDVC,Non,15,M,SELLAYE,Julien,SELLAYE,Julien,1963-03-09,Cadre administratif et commercial d'entreprise,58.21
+17819,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,1,M,SAINTE-ROSE,Serge,SAINTE-ROSE,Serge,1964-06-28,Chef d'entreprise de 10 salariés ou plus,56.9
+17820,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,2,F,AGATHINE,Lisa,AGATHINE,Lisa,1984-04-10,Profession libérale,37.12
+17821,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,3,M,CAGE,Henri,CAGE,Henri,1959-03-23,Cadre de la fonction publique,62.17
+17822,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,4,F,MAITREL,Clarisse,MAITREL,Clarisse,1986-06-21,Commerçant et assimilé,34.92
+17823,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,5,M,MANERE,Jean-Claude,MANERE,Jean-Claude,1960-06-14,Ancien cadre,60.94
+17824,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,6,F,SOREL,Suzy,SOREL,Pierre,1953-05-19,Ancien cadre,68.01
+17825,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,7,M,JEANVILLE,Alain,JEANVILLE,Alain,1953-10-05,Profession libérale,67.63
+17826,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,8,F,VENTADOUR,Murielle,VENTADOUR,Murielle,1985-03-14,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),36.19
+17827,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,9,M,PICOT,William,PICOT,William,1997-01-15,Profession intermédiaire administrative et commerciale des entreprises,24.35
+17828,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,10,F,DOMERGE-MAIKOOUVA,Esther,DOMERGE,Esther,1965-08-09,Employé administratif d'entreprise,55.79
+17829,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,11,M,JUBENOT,Giovanni,JUBENOT,Giovanni,1986-02-09,Cadre de la fonction publique,35.29
+17830,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,12,F,LARCHER,Aurore,DUCLOUX,Aurore,1973-11-27,Commerçant et assimilé,47.49
+17831,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,13,M,ALLAGUY-SALACHY,Miguel,ALLAGUY-SALACHY,Miguel,1961-08-12,Commerçant et assimilé,59.78
+17832,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,14,F,MANER,Mylene,MANER,Mylene,1983-08-08,"Professeur, profession scientifique",37.79
+17833,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,15,M,VIOLTON,Johan,VIOLTON,Johan,1996-08-03,Commerçant et assimilé,24.8
+17834,2,Martinique,ZB4, Sud,7,10,DECLIC,LDVC,Non,16,F,VIGEE,Patricia,VIGEE,Patricia,1957-04-10,"Ancien artisan, commerçant, chef d'entreprise",64.12
+17835,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,1,M,SAMATHAY,François,SAMATHAY,François,1960-02-04,Employé civil et agent de service de la fonction publique,61.3
+17836,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,2,F,CROCHERAY,Céline Josèphe,CROCHERAY,Céline Josèphe,1968-03-19,Profession intermédiaire de la santé et du travail social,53.18
+17837,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,3,M,JOSEPH-AUGUSTE,Cédric Gaëtan,JOSEPH-AUGUSTE,Cédric Gaëtan,1983-06-08,Profession intermédiaire administrative de la fonction publique,37.96
+17838,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,4,F,TRABOT,Patricia Timothée,TRABOT,Patricia Timothée,1967-11-24,Chef d'entreprise de 10 salariés ou plus,53.5
+17839,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,5,M,MARC,Andy Pascal,MARC,Andy Pascal,1989-02-26,Cadre de la fonction publique,32.24
+17840,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,6,F,GRANGER,Joëlle,GRANGER,Joëlle,1969-12-27,Artisan,51.41
+17841,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,7,M,GLORIANNE,Alexandre Léon,GLORIANNE,Alexandre Léon,1957-03-05,Employé administratif d'entreprise,64.22
+17842,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,8,F,ETILE,Marie Chantal,ETILE,Marie Chantal Nérée,1964-12-05,Employé administratif d'entreprise,56.47
+17843,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,9,M,GOURPIL,Théo,GOURPIL,Théo Mathis,2002-03-22,"Elève, étudiant",19.17
+17844,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,10,F,CHAUVET,Marie-Tessie,CHAUVET,Marie-Tessie Annaëlle,1995-09-05,Ingénieur et cadre technique d'entreprise,25.72
+17845,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,11,M,PAUL,Frantz Philippe,PAUL,Frantz Philippe,1948-05-29,Ancien cadre,72.99
+17846,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,12,F,LOUISON,Louise Monique,LOUISON,Louise Monique,1960-03-15,Profession intermédiaire de la santé et du travail social,61.19
+17847,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,13,M,BALAIR,Thierry Patrick,BALAIR,Thierry Patrick,1966-10-31,Employé administratif d'entreprise,54.56
+17848,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,14,F,HIPPOCRATE,Bernabé Evelyne,HIPPOCRATE,Bernabé Evelyne,1961-11-06,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),59.55
+17849,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,15,M,GLORIANNE,Julian,GLORIANNE,Julian Yannis,2001-10-25,"Elève, étudiant",19.58
+17850,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,16,F,VOLANGER,Danielle,VOLANGER,Danielle Suzie,1956-11-12,Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité),64.53
+17851,2,Martinique,ZB1, Centre,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,17,M,RINTO,Joakim,RINTO,Joakim Oswaldo,1986-10-06,Employé civil et agent de service de la fonction publique,34.63
+17852,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Oui,1,M,MONPLAISIR,Ralph Donald Yves,MONPLAISIR,Ralph Donald Yves,1948-05-19,Chef d'entreprise de 10 salariés ou plus,73.01
+17853,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,2,F,ETIENNE,Marie-Line Louise,ETIENNE,Marie-Line Louise,1960-06-21,Profession intermédiaire administrative de la fonction publique,60.92
+17854,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,3,M,MARECHAL,Thierry Fortuné,MARECHAL,Thierry Fortuné,1948-01-06,Ancien cadre,73.38
+17855,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,4,F,MANGATA,Georgette Josèphe,MANGATA,Georgette Josèphe,1958-12-09,Employé civil et agent de service de la fonction publique,62.46
+17856,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,5,M,PALCY,Patrice,PALCY,Patrice Valentin,1972-02-15,Profession libérale,49.27
+17857,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,6,F,DE JAHAM,Marie Blanche Dominique,DE JAHAM,Marie Blanche Dominique,1950-09-07,Ancien cadre,70.71
+17858,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,7,M,MIDELTON,Pierre Eléonore,MIDELTON,Pierre Eléonore,1953-12-29,Chef d'entreprise de 10 salariés ou plus,67.4
+17859,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,8,F,CREMAS,Rosete Vincente,CREMAS,Rosete Vincente,1956-05-04,Ancien cadre,65.05
+17860,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,9,M,ASTARTE,Adolphe,ASTARTE,Adolphe Corneille,1958-12-12,Ancienne profession intermédiaire,62.45
+17861,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,10,F,PETILAIRE,Catherine Valentine,PETILAIRE,Catherine Valentine,1976-02-14,Cadre administratif et commercial d'entreprise,45.27
+17862,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,11,M,ANATOLE,Rémy,ANATOLE,Rémy Casimir,1942-09-10,Ancien cadre,78.7
+17863,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,12,F,ARCADE,Suzie,ARCADE,Suzie,1960-03-11,Agriculteur sur petite exploitation,61.2
+17864,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,13,M,EUPHROSINE,Charles,EUPHROSINE,Charles Jean,1944-09-09,Ancien cadre,76.7
+17865,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,14,F,CHELIM,Josiane,CHELIM,Josiane Maria,1958-05-13,Commerçant et assimilé,63.03
+17866,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,15,M,KELSCH,Jean,KELSCH,Jean Maurice Marie,1941-09-22,Ancien cadre,79.67
+17867,2,Martinique,ZB2, Nord,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,16,F,MOUSTAQUIL,Anna,MOUSTAQUIL,Anna,1982-03-15,Commerçant et assimilé,39.19
+17868,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,1,M,LUTECETTE,Cédric Lionel,LUTECETTE,Cédric Lionel,1985-09-01,Chef d'entreprise de 10 salariés ou plus,35.73
+17869,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,2,F,ENELEDA,Nicole Elise,ENELEDA,Nicole Elise,1966-06-26,Profession intermédiaire de la santé et du travail social,54.91
+17870,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,3,M,WU,Xiongsheng,WU,Xiongsheng,1967-10-11,Commerçant et assimilé,53.62
+17871,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,4,F,LOWENSKY,Rachelle Gabrielle,LOWENSKY,Rachelle Gabrielle Emmanuelle,1990-11-14,Employé de commerce,30.52
+17872,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,5,M,GELY,Judes Vincent,GELY,Judes Vincent,1953-05-04,Ancien cadre,68.05
+17873,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,6,F,EPHELTION,Mathy Ernest,EPHELTION,Mathy Ernest,1960-07-11,Ancien cadre,60.87
+17874,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,7,M,CLOVEL,Serge Emile,CLOVEL,Serge Emile,1958-03-06,Chef d'entreprise de 10 salariés ou plus,63.22
+17875,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,8,F,LIMERY,Micheline,LIMERY,Micheline Viviane,1972-02-12,Employé de commerce,49.28
+17876,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,9,M,DICANOT,Claude Flavien,DICANOT,Claude Flavien,1949-02-18,Ancien ouvrier,72.26
+17877,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,10,F,DONARDIN,Sabrina Jocelyne,DONARDIN,Sabrina Jocelyne,1979-05-28,Employé de commerce,41.99
+17878,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,11,M,MANGATA,Eugène Jean-Michel,MANGATA,Eugène Jean-Michel,1962-11-15,Cadre administratif et commercial d'entreprise,58.52
+17879,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,12,F,CAMINADE,Michèle,CAMINADE,Michèle Robert Marie,1952-06-02,"Ancien artisan, commerçant, chef d'entreprise",68.97
+17880,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,13,M,LUBIN,Joël Yves,LUBIN,Joël Yves Gilles,1955-10-05,"Ancien artisan, commerçant, chef d'entreprise",65.63
+17881,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,14,F,SAINTE-ROSE,Gaël,SAINTE-ROSE,Gaël Liliane,1942-07-18,Ancienne profession intermédiaire,78.85
+17882,2,Martinique,ZB3, Fort-de-France,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,15,M,MEZIN,Raymond,MEZIN,Raymond Marie Charles,1940-01-23,Profession libérale,81.33
+17883,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,1,F,GIRAUD,Audrey Arielle,GIRAUD,Audrey Arielle,1987-09-17,Ingénieur et cadre technique d'entreprise,33.68
+17884,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,2,M,RAYMOND,Jimmy,RAYMOND,Jimmy,1978-11-08,"Profession de l'information, des arts et des spectacles",42.54
+17885,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,3,F,EPHESTION,Monique Françoise,EPHESTION,Monique Françoise,1964-08-03,Employé civil et agent de service de la fonction publique,56.8
+17886,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,4,M,AUGIER,Gustave Gontran,AUGIER,Gustave Gontran,1951-03-28,Ancien employé,70.16
+17887,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,5,F,EDOUARD,Valérie,EDOUARD,Valérie Philippe,1966-05-26,Employé civil et agent de service de la fonction publique,55.0
+17888,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,6,M,BERTELOOT,Jean-Marie,BERTELOOT,Jean-Marie,1959-09-01,Ancien employé,61.73
+17889,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,7,F,LATOUCHENT,Claire Rosette,LATOUCHENT,Claire Rosette,1947-12-08,Ancien employé,73.46
+17890,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,8,M,LAPLUME,Enzo Antoine,LAPLUME,Enzo Antoine,1999-04-28,Profession intermédiaire administrative et commerciale des entreprises,22.07
+17891,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,9,F,MAACHI,Jade Sophie,MAACHI,Jade Sophie,1993-08-19,Chef d'entreprise de 10 salariés ou plus,27.76
+17892,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,10,M,BELLIARD,Arnaud Jean-Marc,BELLIARD,Arnaud Jean-Marc,1977-06-05,Profession intermédiaire administrative de la fonction publique,43.97
+17893,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,11,F,TIBERINUS,Laurence Marie-Line,TIBERINUS,Laurence Marie-Line,1959-08-11,Profession intermédiaire de la santé et du travail social,61.79
+17894,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,12,M,ADLEY,Jean Paul,ADLEY,Jean Paul Thomas,1961-01-27,Artisan,60.32
+17895,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,13,F,CORAIN,Yannick Sabine,CORAIN,Yannick Sabine,1966-08-29,Profession intermédiaire de la santé et du travail social,54.74
+17896,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,14,M,PORFAL,Félix Christian,PORFAL,Félix Christian,1946-09-19,Ancien employé,74.68
+17897,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,15,F,DESROSES,Chantal Marthe,DESROSES,Chantal Marthe,1953-02-07,Ancien cadre,68.29
+17898,2,Martinique,ZB4, Sud,8,3,TOUS POUR LA MARTINIQUE,LDVC,Non,16,M,RONDEL,Gérald Gilles,RONDEL,Gérald Gilles,1981-07-21,Ouvrier non qualifié de type artisanal,39.84
+17899,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,1,M,EDMOND-MARIETTE,Philippe,EDMOND-MARIETTE,Philippe,1955-10-15,Profession libérale,65.61
+17900,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,2,F,CARIUS,Francine,CARIUS,Adrien,1955-05-03,Ancien cadre,66.06
+17901,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,3,M,MARIE-SAINTE,Daniel,MARIE-SAINTE,Daniel,1944-12-14,Ancien cadre,76.44
+17902,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,4,F,LEOTIN,Marie-Hélène,LEOTIN,Fernande,1952-06-27,Ancien cadre,68.91
+17903,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,5,M,COUTURIER,Gilbert,COUTURIER,Gilbert,1962-03-13,"Professeur des écoles, instituteur et assimilé",59.2
+17904,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,6,F,TANGER,Margaret,TANGER,Margaret,1966-12-19,Profession libérale,54.43
+17905,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,7,M,CASIMIR,Max,CASIMIR,Max,1946-01-28,"Professeur, profession scientifique",75.32
+17906,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,8,F,BAURAS,Christiane,BAURAS,Christophe,1951-07-25,Ancien cadre,69.83
+17907,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,9,M,CAPGRAS,Serge Christian,CAPGRAS,Serge,1959-03-27,Cadre administratif et commercial d'entreprise,62.16
+17908,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,10,F,LABEJOF,Thomassine Sylviane,LABEJOF,Thomassine,1962-12-21,Technicien,58.42
+17909,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,11,M,DUNON,Fabrice,DUNON,Fabrice,1976-03-01,Chef d'entreprise de 10 salariés ou plus,45.23
+17910,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,12,F,ROSAMONT-URSULET,Line-Rose,ROSAMONT-URSULET,Line-Rose,1977-04-08,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),44.13
+17911,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,13,M,GIBON,Sylvio Robert,GIBON,Sylvio,1969-04-29,Chef d'entreprise de 10 salariés ou plus,52.07
+17912,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,14,F,PROSPER,Viviane,PROSPER,Viviane,1965-10-11,Chef d'entreprise de 10 salariés ou plus,55.62
+17913,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,15,M,BAURAS,Solen Manussala,BAURAS,Solen,1981-11-13,Chef d'entreprise de 10 salariés ou plus,39.53
+17914,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,16,F,BONFEUILLE,Guylène,BONFEUILLE,Guylène,1966-01-23,Chef d'entreprise de 10 salariés ou plus,55.33
+17915,2,Martinique,ZB1, Centre,9,7,GRAN SANBLE POU MATINIK,LREG,Non,17,M,ALCINDOR,Roger,ALCINDOR,Gaëtan,1960-07-08,"Profession de l'information, des arts et des spectacles",60.88
+17916,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,1,M,PAMPHILE,Justin,PAMPHILE,Justin,1969-06-05,Cadre de la fonction publique,51.97
+17917,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,2,F,LIMIER,Nadia Emilienne,LIMIER,Nadia,1970-05-29,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),50.99
+17918,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,3,M,BOUTRIN,Louis,BOUTRIN,Georges,1958-09-26,Profession libérale,62.66
+17919,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,4,F,ADREA-LORDINOT,Marie-Frédérique,LORDINOT,Marie-Frédérique,1965-08-25,Profession libérale,55.75
+17920,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,5,M,DESROSES,Lionel,DESROSES,Lionel,1967-08-09,Cadre administratif et commercial d'entreprise,53.79
+17921,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,6,F,LOUISOR,Céline,LOUISOR,Céline,1993-08-26,Profession intermédiaire de la santé et du travail social,27.74
+17922,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,7,M,MICHALON,Max Clarisse,MICHALON,Max,1959-09-08,Ingénieur et cadre technique d'entreprise,61.71
+17923,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,8,F,BELLIARD,Viviane Marguerite,BELLIARD,Viviane,1965-02-22,Cadre administratif et commercial d'entreprise,56.25
+17924,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,9,M,CESARINE,Lucien,CESARINE,Lucien,1968-03-24,Agriculteur sur moyenne exploitation,53.17
+17925,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,10,F,CATALAN,Roseline,CATALAN,Roseline,1970-08-14,Profession libérale,50.78
+17926,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,11,M,ZABEAU,José,ZABEAU,José,1961-06-20,"Professeur des écoles, instituteur et assimilé",59.93
+17927,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,12,F,ROSSI EPOUSE LOURI,Colette,ROSSI,Colette,1965-07-10,"Professeur des écoles, instituteur et assimilé",55.87
+17928,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,13,M,COSSOU,Claude Raymond,COSSOU,Claude,1962-08-24,Cadre de la fonction publique,58.75
+17929,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,14,F,ROSALIE,Elisabeth,ROSALIE,Elisabeth,1965-12-02,Ingénieur et cadre technique d'entreprise,55.47
+17930,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,15,M,GEORGE,Herbert,GEORGE,Herbert,1980-03-20,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),41.18
+17931,2,Martinique,ZB2, Nord,9,7,GRAN SANBLE POU MATINIK,LREG,Non,16,F,VETRO,Marie-George Christiane,VETRO,Marie-George,1953-03-02,Ancien employé,68.23
+17932,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,1,M,CAROLE,Francis,CAROLE,Luc,1958-10-19,"Professeur des écoles, instituteur et assimilé",62.6
+17933,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,2,F,EMMANUEL,Christiane,EMMANUEL,Christiane,1962-09-30,Profession intermédiaire administrative de la fonction publique,58.65
+17934,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,3,M,LAVENTURE,Miguel,LAVENTURE,Louisor,1947-04-19,Ancien cadre,74.1
+17935,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,4,F,GRUBO,Rolande,GRUBO,Rolande,1959-10-08,Agriculteur sur moyenne exploitation,61.63
+17936,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,5,M,CHARPENTIER-TITY,Clément,CHARPENTIER-TITY,Clément,1959-11-25,"Professeur des écoles, instituteur et assimilé",61.49
+17937,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,6,F,JOS,Génya,JOS,Génya,1969-08-07,Employé de commerce,51.79
+17938,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,7,M,BRANCHI,Michel,BRANCHI,Michel,1941-01-17,Ancien cadre,80.35
+17939,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,8,F,CURTON,Sylviane,CURTON,Sylviane,1964-05-20,Cadre de la fonction publique,57.01
+17940,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,9,M,CAZAL,Paul,CAZAL,Paul,1955-10-27,Employé civil et agent de service de la fonction publique,65.57
+17941,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,10,F,BOUTRIN,Jill,BOUTRIN,Jill,1983-01-31,Employé civil et agent de service de la fonction publique,38.31
+17942,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,11,M,JEAN-BAPTISTE,Gilles,JEAN-BAPTISTE,Gilles,1960-06-20,Profession intermédiaire de la santé et du travail social,60.93
+17943,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,12,F,BARTY,Vanessa,BARTY,Vanessa,1980-10-13,Employé civil et agent de service de la fonction publique,40.61
+17944,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,13,M,BELLETERRE,Jean,BELLETERRE,Jean,1954-03-22,Ancien employé,67.17
+17945,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,14,F,STANISLAS,Régine,STANISLAS,Régine,1968-04-05,Employé administratif d'entreprise,53.13
+17946,2,Martinique,ZB3, Fort-de-France,9,7,GRAN SANBLE POU MATINIK,LREG,Non,15,M,MONAN,Max,MONAN,Fulbert,1953-10-21,Ancien cadre,67.59
+17947,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Oui,1,M,MARIE-JEANNE,Alfred,MARIE-JEANNE,Alfred,1936-11-15,Ancien cadre,84.52
+17948,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,2,F,NORCA,Stéphanie,NORCA,Stephanie,1983-11-01,Profession intermédiaire de la santé et du travail social,37.56
+17949,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,3,M,MIRANDE,José,MIRANDE,José,1958-08-31,Chef d'entreprise de 10 salariés ou plus,62.73
+17950,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,4,F,CLEM-BERTHOLO,Manuella,CLEM,Manuella,1966-06-12,Cadre de la fonction publique,54.95
+17951,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,5,M,LARCHER,Eugène,LARCHER,Eugène,1947-03-02,Ancien cadre,74.23
+17952,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,6,F,VALENTIN,Sandra,VALENTIN,Sandra,1970-02-12,Cadre de la fonction publique,51.28
+17953,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,7,M,NARCISSOT,Marius,NARCISSOT,Marius,1964-01-03,Cadre administratif et commercial d'entreprise,57.39
+17954,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,8,F,PINVILLE,Josiane,PINVILLE,Josiane,1959-03-12,Profession intermédiaire de la santé et du travail social,62.2
+17955,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,9,M,ADJUTOR,Valéry Irmine,ADJUTOR,Valéry,1969-12-24,Profession intermédiaire de la santé et du travail social,51.41
+17956,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,10,F,LOUIS-SIDNEY,Délhia,LOUIS-SIDNEY,Délhia,1989-08-20,Profession intermédiaire de la santé et du travail social,31.76
+17957,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,11,M,INAMO,Jocelyn,INAMO,Jocelyn,1963-02-23,"Professeur, profession scientifique",58.25
+17958,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,12,F,PHAROSE,Christiane,PHAROSE,Christiane,1960-05-25,Profession intermédiaire de la santé et du travail social,61.0
+17959,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,13,M,FERDINAND,Youri Nelson,FERDINAND,Youri,1994-07-26,Profession intermédiaire de la santé et du travail social,26.83
+17960,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,14,F,BACHE,Sabrina,BACHE,Sabrina,1992-03-19,Profession libérale,29.18
+17961,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,15,M,ADENET,Lucien,ADENET,Lucien,1947-02-04,Ancien cadre,74.3
+17962,2,Martinique,ZB4, Sud,9,7,GRAN SANBLE POU MATINIK,LREG,Non,16,F,DORESSAMY,Peggy,DORESSAMY,Peggy,1975-04-17,Profession intermédiaire de la santé et du travail social,46.1
+17963,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,1,M,AJOUP,Daniel Jean-Charles,AJOUP,Daniel Jean-Charles,1961-05-07,Chef d'entreprise de 10 salariés ou plus,60.05
+17964,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,2,F,CONCY,Claire Marie-Joseph Tatiana,CONCY,Claire Marie-Joseph Tatiana,1973-12-01,Profession intermédiaire de la santé et du travail social,47.48
+17965,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,3,M,JACQUES-GUSTAVE,Jean Marie André,JACQUES-GUSTAVE,Jean Marie André,1957-11-30,Agriculteur sur petite exploitation,63.48
+17966,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,4,F,FERDINAND (BREDAS),Marie Julie Jeanine Michelle,FERDINAND,Marie Julie Jeanine Michelle,1961-08-05,Commerçant et assimilé,59.8
+17967,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,5,M,RANDINE,Gary,RANDINE,Gary,1977-09-07,Ouvrier agricole,43.71
+17968,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,6,F,RAPHAEL,Chantal,LECURIEUX-LAFAYETTE,Chantal Rose,1963-08-30,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),57.73
+17969,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,7,M,CARDON,Carl Claude,CARDON,Carl Claude,1979-08-12,Technicien,41.78
+17970,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,8,F,JOSEPH,Patricia,PIERRE LOUIS,Patricia Caryne,1982-09-09,Ouvrier qualifié de type artisanal,38.7
+17971,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,9,M,GRESSIER,Gilles Henri Robert Guy,GRESSIER,Gilles Henri Robert Guy,1956-09-25,Cadre administratif et commercial d'entreprise,64.66
+17972,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,10,F,ABAUL,Patricia Vincent,ABAUL,Patricia Vincent,1969-01-22,Ouvrier qualifié de type artisanal,52.33
+17973,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,11,M,LAFONTAINE,Jean-Pierre Patrice,LAFONTAINE,Jean-Pierre Patrice,1989-01-15,Cadre administratif et commercial d'entreprise,32.35
+17974,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,12,F,COROSINE,Martine,COROSINE,Martine,1981-01-26,Ouvrier qualifié de type artisanal,40.32
+17975,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,13,M,VIGNE,George Jean-Baptiste,VIGNE,George Jean-Baptiste,1960-02-14,Ouvrier qualifié de type artisanal,61.27
+17976,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,14,F,RALAISOMAY,Natacha,RALAISOMAY,Natacha Sarah,1980-03-05,Profession intermédiaire de la santé et du travail social,41.22
+17977,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,15,M,FIRMIN,Samuel Félix,FIRMIN,Samuel Félix,1963-12-07,"Contremaître, agent de maîtrise",57.46
+17978,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,16,F,BOISSON,Sophie,BOISSON,Sophie Beatrice,1962-09-02,Ancien cadre,58.72
+17979,2,Martinique,ZB1, Centre,10,15,LA MARTINIQUE AVANCE,LDVD,Non,17,M,IDEA,Castri Miguel,IDEA,Castri Miguel,1988-11-26,Ouvrier agricole,32.49
+17980,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Oui,1,M,FERDINAND,Guy Christian Marie,FERDINAND,Guy Christian Marie,1968-02-02,Chef d'entreprise de 10 salariés ou plus,53.31
+17981,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,2,F,ZEBO JOURDAN,Rosemonde Andrée,ZEBO,Rosemonde,1961-11-30,Cadre de la fonction publique,59.48
+17982,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,3,M,CICALINI,Noel,CICALINI,Noel,1961-12-19,Profession intermédiaire administrative et commerciale des entreprises,59.43
+17983,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,4,F,HUYGHUES DESPOINTES,Christine,LAGE,Christine Brigitte,1961-01-18,Chef d'entreprise de 10 salariés ou plus,60.34
+17984,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,5,M,LEGER,José,LEGER,José Daniel,1954-11-12,"Ouvrier qualifié de la manutention, du magasinage et du transport",66.53
+17985,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,6,F,ARAGONES,Morgane,ARAGONES,Morgane,1992-03-24,Employé de commerce,29.17
+17986,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,7,M,GOUYER,Steeve,GOUYER,Steeve,1979-05-25,Commerçant et assimilé,42.0
+17987,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,8,F,SIMONIN-CAUVEMBERG,Léa-Marie,SIMONIN-CAUVEMBERG,Léa-Marie,2002-10-06,"Elève, étudiant",18.63
+17988,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,9,M,GIRIER,Benoit,GIRIER,Benoit,1967-12-15,"Professeur, profession scientifique",53.44
+17989,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,10,F,MELLIER VEUVE DINS,Genevieve Marie Chantal,MELLIER,Genevieve,1957-06-12,Ancien employé,63.95
+17990,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,11,M,JEAN,Valere Florentin,JEAN,Valere,1957-12-12,Commerçant et assimilé,63.45
+17991,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,12,F,HIERSO,Rebecca,HIERSO,Rebecca,1974-10-13,Profession intermédiaire de la santé et du travail social,46.61
+17992,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,13,M,NESTILE,Ismael,NESTILE,Ismael,1986-06-11,Agriculteur sur petite exploitation,34.95
+17993,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,14,F,ZEBO,Lorena Felicie,ZEBO,Lorena,1985-08-10,Chauffeur,35.79
+17994,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,15,M,CAUVEMBERG,Bruno Joel Arsene,CAUVEMBERG,Bruno,1963-02-23,Ouvrier qualifié de type artisanal,58.25
+17995,2,Martinique,ZB2, Nord,10,15,LA MARTINIQUE AVANCE,LDVD,Non,16,F,JEAN FRANCOIS,Gueruista,JEAN FRANCOIS,Gueruista,1980-09-03,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),40.72
+17996,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,1,F,GRESSIER,Charlotte Emilie,GRESSIER,Charlotte Emilie,1984-03-16,Profession libérale,37.19
+17997,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,2,M,QUIQUINE,Mickael,QUIQUINE,Mickael,1984-03-04,Cadre administratif et commercial d'entreprise,37.22
+17998,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,3,F,FERDINAND,Marie-Paule Mrcelline,FERDINAND,Marie-Paule Mrcelline,1962-02-06,Profession intermédiaire de la santé et du travail social,59.29
+17999,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,4,M,PERMAL,Nathanael Georges Guillaume,PERMAL,Nathanael Georges Guillaume,1980-12-18,Agriculteur sur petite exploitation,40.43
+18000,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,5,F,MAUVOIS,Nicole,MAUVOIS,Nicole,1970-07-17,"Professeur, profession scientifique",50.85
+18001,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,6,M,IZAMBARD,Jean-Jérome,IZAMBARD,Jean-Jérome,1974-03-30,Chef d'entreprise de 10 salariés ou plus,47.15
+18002,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,7,F,LAMBERT,Laure,LAMBERT,Laure Brigitte,1983-05-19,"Profession de l'information, des arts et des spectacles",38.02
+18003,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,8,M,HOCQUET,Olivier,HOCQUET,Olivier,1970-02-18,Profession libérale,51.26
+18004,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,9,F,MONROSE,Anne-Marie,MONROSE,Anne-Marie,1975-12-13,Employé de commerce,45.45
+18005,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,10,M,LITTRE,Jean Victor,LITTRE,Jean Victor,1961-04-10,Profession intermédiaire administrative et commerciale des entreprises,60.12
+18006,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,11,F,LIN-SI HOCQUET,Karine,LIN-SI,Karine,1981-03-01,Profession libérale,40.23
+18007,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,12,M,MASSON,Ludovic Jean-Marie,MASSON,Ludovic,1972-10-16,Ouvrier qualifié de type artisanal,48.6
+18008,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,13,F,FAURE,Céline,FAURE,Céline,1979-04-02,"Professeur des écoles, instituteur et assimilé",42.14
+18009,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,14,M,ANTONIN,Idris Irenée,ANTONIN,Idris Irenée,1996-04-21,Profession intermédiaire de la santé et du travail social,25.09
+18010,2,Martinique,ZB3, Fort-de-France,10,15,LA MARTINIQUE AVANCE,LDVD,Non,15,F,ZOZIME,Jessica Ludivine,ZOZIME,Jessica Ludivine,1981-05-28,Employé administratif d'entreprise,39.99
+18011,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,1,M,CAUDRON,Vianney François Marie,CAUDRON,Vianney,1964-10-12,Artisan,56.61
+18012,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,2,F,RIQUIER,Line Barthélémy,RIQUIER,Line Barthélémy,1961-08-24,Employé de commerce,59.75
+18013,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,3,M,VARKALA,Pierre-Walter Thierry Mike,VARKALA,Pierre-Walter Thierry Mike,1983-09-16,Profession libérale,37.69
+18014,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,4,F,JONCART,Emilie,JONCART,Gaetan Emilie,1953-07-08,Ancien cadre,67.88
+18015,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,5,M,ISAAC,Stephane Jean Roger,ISAAC,Stephane Jean Roger,1964-06-10,Profession libérale,56.95
+18016,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,6,F,GRESSIER,Marie-Louise Hélène,MINGO,Marie-Louise Hélène,1952-04-18,Ingénieur et cadre technique d'entreprise,69.1
+18017,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,7,M,BONITEAU,Christophe  Edouard Abel,BONITEAU,Christophe  Edouard Abel,1964-08-27,Artisan,56.74
+18018,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,8,F,CARDOSO,Sonia,CARDOSO,Sonia,1985-06-28,Profession intermédiaire de la santé et du travail social,35.9
+18019,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,9,M,ESTEBAN,Diego Gabriel Andréa,ESTEBAN,Diego Gabriel Andréa,1992-10-23,Chef d'entreprise de 10 salariés ou plus,28.58
+18020,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,10,F,RIQUIER,Evelyne Edmond,RIQUIER,Evelyne Edmond,1963-11-20,Cadre de la fonction publique,57.51
+18021,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,11,M,FEYRY,Patrice Claude Louis,FEYRY,Patrice Claude Louis,1967-03-07,Chef d'entreprise de 10 salariés ou plus,54.21
+18022,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,12,F,MERLINI,Lyvia Sarah Eugénie,MERLINI,Lyvia Sarah Eugénie,1973-11-20,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),47.51
+18023,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,13,M,VAUDRAN,Jonathan Stéphen,VAUDRAN,Jonathan Stéphen,1992-09-05,Profession libérale,28.71
+18024,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,14,F,PETREIN,Annie Medard,CASCA,Annie Medard,1959-08-06,Ancien cadre,61.8
+18025,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,15,M,ETIENNE,Alexis Joseph,ETIENNE,Alexis Joseph,1996-05-28,Profession libérale,24.99
+18026,2,Martinique,ZB4, Sud,10,15,LA MARTINIQUE AVANCE,LDVD,Non,16,F,LOUISON,Karine Sidonie,LOUISON,Karine Sidonie,1980-11-13,Employé administratif d'entreprise,40.53
+18027,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,1,M,CRISPIN,Eric,CRISPIN,Eric,1975-01-28,Chef d'entreprise de 10 salariés ou plus,46.32
+18028,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,2,F,MAURIOL,Annie-Claude,MAURIOL,Annie-Claude,1969-09-17,"Professeur des écoles, instituteur et assimilé",51.68
+18029,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,3,M,RAVON,Jonas,RAVON,Jonas,1980-04-08,Profession intermédiaire de la santé et du travail social,41.13
+18030,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,4,F,VIRAPIN,Keycia,VIRAPIN ARANUD,Keycia,2002-08-22,"Elève, étudiant",18.75
+18031,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,5,M,GRAND,Jean-Marc,GRAND,Jean-Marc,1969-09-07,Chef d'entreprise de 10 salariés ou plus,51.71
+18032,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,6,F,NUBERON,Gwladys,NUBERON,Gwladys,1986-04-15,Chef d'entreprise de 10 salariés ou plus,35.11
+18033,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,7,M,LIBON,Stribline,LIBON,Stribline,1974-09-16,Profession intermédiaire de la santé et du travail social,46.69
+18034,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,8,F,ANGEON,Nadia,ANGEON,Nadia,1977-11-23,Ouvrier qualifié de type industriel,43.5
+18035,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,9,M,RILOS,Yves,RILOS,Yves,1982-09-14,Profession intermédiaire de la santé et du travail social,38.69
+18036,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,10,F,NORTIA,Christine,NORTIA,Christine,1971-08-02,Profession intermédiaire administrative de la fonction publique,49.81
+18037,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,11,M,ALCINDOR,Christophe,ALCINDOR,Christophe,1982-03-08,Technicien,39.21
+18038,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,12,F,CATIN,Lisa,CATIN,Lisa,1999-06-29,"Elève, étudiant",21.9
+18039,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,13,M,FELIX,Steeve,FELIX,Steeve,1982-04-16,Artisan,39.1
+18040,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,14,F,CLEM,Manuella,CLEM,Manuella,1979-05-03,Ouvrier qualifié de type industriel,42.06
+18041,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,15,M,LIBRI,Elie,LIBRI,Elie,1999-12-29,"Elève, étudiant",21.4
+18042,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,16,F,CHATON,Marie-Line,CHATON,Marie-Line,1972-05-01,Profession intermédiaire administrative et commerciale des entreprises,49.06
+18043,2,Martinique,ZB1, Centre,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,17,M,MERANOS,Joël,MERANOS,Joël,1984-09-21,Profession intermédiaire administrative de la fonction publique,36.67
+18044,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,1,F,CLAVER,Elisabeth,CLAVER,Elisabeth,1966-11-29,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),54.48
+18045,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,2,M,LUCIEN-REINETTE,Manuel,LUCIEN-REINETTE,Manuel,1958-05-23,Ouvrier qualifié de type industriel,63.0
+18046,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,3,F,ESCAVOCAF,Véronique,ESCAVOCAF,Véronique,1976-12-29,"Professeur des écoles, instituteur et assimilé",44.4
+18047,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,4,M,NILOR,Mathyas,NILOR,Mathyas,1989-08-18,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),31.76
+18048,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,5,F,BATAILLE,Séverine,BATAILLE,Séverine,1981-09-26,"Professeur, profession scientifique",39.66
+18049,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,6,M,THALMENSI,Rony,THALMENSI,Rony,1979-09-28,Profession intermédiaire de la santé et du travail social,41.65
+18050,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,7,F,MARNY,Muriel,MARNY,Muriel,1966-05-01,Agriculteur sur petite exploitation,55.06
+18051,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,8,M,DEMESSAZ,Rémy,DEMESSAZ,Rémy,1982-06-08,Artisan,38.96
+18052,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,9,F,JANVIER,Sonia,JANVIER,Sonia,1966-10-01,Profession intermédiaire administrative et commerciale des entreprises,54.64
+18053,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,10,M,VARASSE,Morgan,VARASSE,Morgan,1990-12-21,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),30.42
+18054,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,11,F,BRIGITTE,Sheba,BRIGITTE,Araminta,1990-07-25,Commerçant et assimilé,30.83
+18055,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,12,M,CHERY,Mathias,CHERY,Mathias,1985-02-19,Profession intermédiaire de la santé et du travail social,36.26
+18056,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,13,F,ZECLER,Viviane,ZECLER,Viviane,1983-04-19,Employé administratif d'entreprise,38.1
+18057,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,14,M,GERMANY,Steeve,GERMANY,Steeve,1977-09-09,Chef d'entreprise de 10 salariés ou plus,43.7
+18058,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,15,F,RABORIO,Nicole,RABORIO,Nicole,1971-01-04,Employé administratif d'entreprise,50.38
+18059,2,Martinique,ZB2, Nord,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,16,M,YSAÏDE,Yannick,YSAÏDE,Yannick,1970-03-27,"Professeur des écoles, instituteur et assimilé",51.16
+18060,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,1,M,MIEVILLY,Yann,MIEVILLY,Yann,1983-07-18,Chef d'entreprise de 10 salariés ou plus,37.85
+18061,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,2,F,SABINE,Sophia,SABINE,Sophia,1963-02-19,Profession libérale,58.26
+18062,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,3,M,MICHALON,Didier,MICHALON,Didier,1977-01-17,Chef d'entreprise de 10 salariés ou plus,44.35
+18063,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,4,F,VARASSE,Rosetta,VARASSE,Rosetta,1956-08-25,Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité),64.74
+18064,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,5,M,LEDOUX,Olivier,LEDOUX,Olivier,1970-04-06,Cadre administratif et commercial d'entreprise,51.13
+18065,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,6,F,REGAL,Guilène,FAROT,Guilène,1960-12-02,Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité),60.47
+18066,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,7,M,CHAUVET,Kévin,CHAUVET,Kévin,1992-11-02,Agriculteur sur petite exploitation,28.56
+18067,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,8,F,CABRE,Héléna,CABRE,Héléna,1971-12-05,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),49.47
+18068,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,9,M,MARIE-ANGELIQUE,Dominique,MARIE-ANGELIQUE,Nazaire,1958-07-27,Ouvrier qualifié de type industriel,62.83
+18069,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,10,F,PAM,Catherine,PAM,Catherine,1975-02-27,"Professeur, profession scientifique",46.24
+18070,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,11,M,LANOIR,Tony,LANOIR,Tony,1974-12-09,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),46.46
+18071,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,12,F,VEILLEUR,Marthe,VEILLEUR,Marthe,1965-09-10,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),55.7
+18072,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,13,M,DALMAT,Didier,DALMAT,Didier,1982-08-12,Technicien,38.78
+18073,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,14,F,LEOPOLDIE,Caty,LEOPOLDIE,Caty,1968-05-10,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),53.04
+18074,2,Martinique,ZB3, Fort-de-France,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,15,M,VARASSE,Bryam,VARASSE,Bryam,1990-12-21,"Professeur des écoles, instituteur et assimilé",30.42
+18075,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Oui,1,M,BERISSON,Olivier,BERISSON,Olivier,1974-09-01,Cadre administratif et commercial d'entreprise,46.73
+18076,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,2,F,SABINE,Guilaine,SABINE,Guilaine,1959-03-29,Employé administratif d'entreprise,62.15
+18077,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,3,M,YUNG-HING,Jean-Philippe,YUNG-HING,Jean-Philippe,1959-07-13,Profession intermédiaire de la santé et du travail social,61.86
+18078,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,4,F,GROS-DUBOIS,Annie,GROS-DUBOIS,Annie,1956-01-01,Cadre de la fonction publique,65.39
+18079,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,5,M,PADRA,Jérôme,PADRA,Jérôme,1983-08-31,Profession intermédiaire de la santé et du travail social,37.73
+18080,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,6,F,LOF,Lucienne,CAMATCHY,Lucienne,1966-09-26,Agriculteur sur petite exploitation,54.66
+18081,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,7,M,TOULON,David,TOULON,David,1976-03-10,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),45.2
+18082,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,8,F,MARIE-LOUISE,Sandrina,MARIE-LOUISE,Sandrina,1994-09-09,Chômeur n'ayant jamais travaillé,26.7
+18083,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,9,M,JEAN-ELIE,Louis-Marie,JEAN-ELIE,Louis-Marie,1958-06-26,Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité),62.91
+18084,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,10,F,HONORE,Sandrine,HONORE,Sandrine,1978-09-09,Chef d'entreprise de 10 salariés ou plus,42.7
+18085,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,11,M,MAXIME,Esaïe,MAXIME,Esaïe,1991-10-22,Ouvrier qualifié de type industriel,29.59
+18086,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,12,F,DORMOI,Danielle,DORMOI,Danielle,1968-05-07,Employé de commerce,53.05
+18087,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,13,M,FARDIN,François,FARDIN,François,1971-04-13,Employé civil et agent de service de la fonction publique,50.11
+18088,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,14,F,SYLVESTRE,Sandrine,SYLVESTRE,Sandrine,1977-03-31,"Professeur, profession scientifique",44.15
+18089,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,15,M,BURLET,Julien,BURLET,Julien,1982-09-04,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),38.72
+18090,2,Martinique,ZB4, Sud,11,12,AKM AKTE KILTI MATNIK,LEXG,Non,16,F,EMONIDE,Sandrine,MAXIMIN,Valérie,1968-10-17,Profession intermédiaire de la santé et du travail social,52.6
+18091,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,1,F,MOUSSEAU,Karine,MOUSSEAU,Karine,1972-08-01,"Professeur, profession scientifique",48.81
+18092,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,2,M,TABAR,Jonathan,TABAR,Jonathan,1987-11-10,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),33.54
+18093,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,3,F,GORNELLI,Marie-Lyne,GORNELLI,Marie-Lyne,1975-09-26,Profession libérale,45.66
+18094,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,4,M,FAFARD,Joël,FAFARD,Joël,1966-02-18,Cadre administratif et commercial d'entreprise,55.26
+18095,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,5,F,ESPARTERO,Eliane,ESPARTERO,Eliane,1959-07-04,Profession libérale,61.89
+18096,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,6,M,LAVENTURE,Jean-Louis,LAVENTURE,Jean-Louis,1983-09-21,Cadre administratif et commercial d'entreprise,37.67
+18097,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,7,F,LEGER,Nathalie,LEGER,Nathalie,1988-03-02,"Professeur, profession scientifique",33.23
+18098,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,8,M,DORIVAL,Roland,DORIVAL,Roland,1953-08-02,Ancienne profession intermédiaire,67.81
+18099,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,9,F,MARCUS,Suzelle,MARCUS,Suzelle,1983-01-05,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),38.38
+18100,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,10,M,PAVADE,Steeve Charles,PAVADE,Steeve,1989-07-04,Employé de commerce,31.89
+18101,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,11,F,COUTA,Gladys Claude,COUTA,Gladys,1976-02-09,Profession intermédiaire administrative et commerciale des entreprises,45.29
+18102,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,12,M,TIN,Gustave Calixte,TIN,Gustave,1966-10-21,Cadre de la fonction publique,54.59
+18103,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,13,F,LERANDY,Katelyne,LERANDY,Katelyne,1989-01-09,Employé de commerce,32.37
+18104,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,14,M,MONTLOUIS-GABRIEL,Thierry,MONTLOUIS-GABRIEL,Thierry,1966-07-27,Profession intermédiaire administrative de la fonction publique,54.83
+18105,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,15,F,LICAN,Louisiane Irène,LICAN,Louisiane,1967-03-04,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),54.22
+18106,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,16,M,FELIXINE,Charles,FELIXINE,Charles,1968-02-17,Employé civil et agent de service de la fonction publique,53.26
+18107,2,Martinique,ZB1, Centre,12,11,MI CHANS MATINIK,LDVD,Non,17,F,LAVIOLETTE DUBOIS,Marlène Ursule,LAVIOLETTE,Marlène,1959-10-21,Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité),61.59
+18108,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,1,M,LORDINOT,Fred Michel,LORDINOT,Fred,1958-07-29,Cadre administratif et commercial d'entreprise,62.82
+18109,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,2,F,TORPILLE,Marinette,TORPILLE,Marinette,1959-08-10,Commerçant et assimilé,61.79
+18110,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,3,M,FLANDRINA,Guy,FLANDRINA,Guy,1955-12-07,"Profession de l'information, des arts et des spectacles",65.46
+18111,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,4,F,PRUFER,Séverine,PRUFER,Séverine,1973-04-01,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),48.15
+18112,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,5,M,MARLET,Daniel,MARLET,Daniel,1955-10-21,"Professeur, profession scientifique",65.59
+18113,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,6,F,HERACLIDE,Mylène Elisabeth,HERACLIDE,Mylène,1988-11-23,Cadre de la fonction publique,32.5
+18114,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,7,M,DESCAS,Yann,DESCAS,Yann,1992-06-02,Profession intermédiaire de la santé et du travail social,28.97
+18115,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,8,F,PATTERY,Haïcha,PATTERY,Haïcha,1990-01-17,Profession intermédiaire administrative et commerciale des entreprises,31.35
+18116,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,9,M,BONNIALY,Dorothée,BONNIALY,Dorothée,1961-10-20,Profession intermédiaire de la santé et du travail social,59.59
+18117,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,10,F,NIENAT BRIVAL,Marie-Josée,NIENAT,Marie-Josée,1963-04-25,Profession intermédiaire de la santé et du travail social,58.08
+18118,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,11,M,RENARD,Tony Gelase,RENARD,Tony,1972-11-21,Commerçant et assimilé,48.5
+18119,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,12,F,LOE-MIE,Annie,LOE-MIE,Annie,1964-05-28,"Professeur, profession scientifique",56.99
+18120,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,13,M,DOHAM,Sylvestre,DOHAM,Sylvestre,1945-12-31,Artisan,75.39
+18121,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,14,F,BRIVAL,Ghislaine,BRIVAL,Ghislaine,1955-08-01,Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité),65.81
+18122,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,15,M,TRAQUE,Sylvain,TRAQUE,Sylvain,1968-02-08,Artisan,53.29
+18123,2,Martinique,ZB2, Nord,12,11,MI CHANS MATINIK,LDVD,Non,16,F,MIEVILLY,Eliane,MIEVILLY,Eliane,1951-01-07,Ancien cadre,70.38
+18124,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Oui,1,M,MONPLAISIR,Yan,MONPLAISIR,Yan,1952-04-21,Chef d'entreprise de 10 salariés ou plus,69.09
+18125,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,2,F,MONTROSE,Diane Nathalie,MONTROSE,Diane,1975-09-06,Chef d'entreprise de 10 salariés ou plus,45.71
+18126,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,3,M,SALOMON,Henri,SALOMON,Henri,1962-09-12,Artisan,58.7
+18127,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,4,F,LAMA,Perle,LAMA,Perle,1984-01-20,Profession libérale,37.34
+18128,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,5,M,DORWLING-CARTER,Samuel Henri,DORWLING-CARTER,Samuel,1986-12-13,Profession libérale,34.44
+18129,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,6,F,JEAN-JOSEPH,Huguette Léonne,JEAN-JOSEPH,Huguette,1956-02-20,Ancienne profession intermédiaire,65.26
+18130,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,7,M,CROCHEMAR,Fabrice,CROCHEMAR,Fabrice,1968-10-01,Profession libérale,52.64
+18131,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,8,F,STEPH,Gaëlle,NOLBAS,Gaëlle,1976-10-06,"Contremaître, agent de maîtrise",44.63
+18132,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,9,M,KICHENAMA,Pierre,KICHENAMA,Joseph,1961-09-18,Artisan,59.68
+18133,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,10,F,SAINT-OLYMPE,Patricia,SAINT-OLYMPE,Marcelle,1960-12-27,Chef d'entreprise de 10 salariés ou plus,60.41
+18134,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,11,M,NOLBAS,Roger,NOLBAS,Roger,1952-10-23,Ancien employé,68.58
+18135,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,12,F,MOUSSEAU,Virginie,MOUSSEAU,Virginie,1974-02-25,Profession libérale,47.24
+18136,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,13,M,ROSE-ROSETTE,Claude-Alain,ROSE-ROSETTE,Claude-Alain,1955-02-17,Profession libérale,66.26
+18137,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,14,F,OSMAN,Amal,OSMAN,Amal,1977-01-01,Employé de commerce,44.39
+18138,2,Martinique,ZB3, Fort-de-France,12,11,MI CHANS MATINIK,LDVD,Non,15,M,CHALONO,Michel,CHALONO,Victor,1946-03-31,Profession libérale,75.15
+18139,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,1,F,SAITHSOOTHANE,Sylvia,SAITHSOOTHANE,Sylvia,1960-06-26,Ancienne profession intermédiaire,60.91
+18140,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,2,M,OCCOLIER,Ludovic Christophe,OCCOLIER,Ludovic,1983-02-12,"Professeur, profession scientifique",38.28
+18141,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,3,F,TRITZ,Yvonne Dominique,TRITZ,Yvonne,1969-04-08,Cadre administratif et commercial d'entreprise,52.13
+18142,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,4,M,SAINVILLE,Allan,SAINVILLE,Allan,1991-10-26,Technicien,29.58
+18143,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,5,F,BASPIN,Lorna,BASPIN,Lorna,1984-10-02,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),36.64
+18144,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,6,M,LAGRANDCOURT,Gabriel,LAGRANDCOURT,Gabriel,1953-10-10,Ancien cadre,67.62
+18145,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,7,F,LAIGLE,Vanessa,LAIGLE,Vanessa,1984-03-12,"Profession de l'information, des arts et des spectacles",37.2
+18146,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,8,M,COPPET,Eric,COPPET,Eric,1967-03-19,Chef d'entreprise de 10 salariés ou plus,54.18
+18147,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,9,F,SERBIN,Patricia,SERBIN,Patricia,1970-05-10,"Professeur des écoles, instituteur et assimilé",51.04
+18148,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,10,M,PANCRATE,Jean-Yves,PANCRATE,Jean-Yves,1972-07-26,Employé administratif d'entreprise,48.83
+18149,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,11,F,DINTIMILLE,Yohanne,DINTIMILLE,Yohanne,1985-08-05,Profession libérale,35.8
+18150,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,12,M,LUSBEC,Jean-Marc,LUSBEC,Jean-Marc,1964-09-14,Cadre de la fonction publique,56.69
+18151,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,13,F,THERESE,Karine,THERESE,Karine,1984-06-14,Profession libérale,36.94
+18152,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,14,M,DUQUET,Jean-Christian Hubert Georges,DUQUET,Jean-Christian,1970-03-02,Cadre administratif et commercial d'entreprise,51.23
+18153,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,15,F,MARIE-LOUISE,Maëlle,MARIE-LOUISE,Maëlle,1988-02-07,Employé administratif d'entreprise,33.29
+18154,2,Martinique,ZB4, Sud,12,11,MI CHANS MATINIK,LDVD,Non,16,M,ROUVILLAIN,Jean-Louis,ROUVILLAIN,Jean-Louis,1951-10-09,Profession libérale,69.62
+18155,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,1,F,TINOT,Marie-Frantz,TINOT,Marie-Frantz,1959-07-05,Cadre administratif et commercial d'entreprise,61.89
+18156,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,2,M,ROSE,Johnny,ROSE,Eric,1956-01-03,Chef d'entreprise de 10 salariés ou plus,65.39
+18157,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,3,F,LITADIER,Laura,LITADIER,Laura,1979-11-25,Commerçant et assimilé,41.49
+18158,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,4,M,URSULET,François-Christophe,URSULET,François-Christophe,1971-10-19,Cadre administratif et commercial d'entreprise,49.6
+18159,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,5,F,BEAUBANT GAMBIE,Carine,BEAUBANT,Carine,1977-05-09,Profession intermédiaire administrative de la fonction publique,44.04
+18160,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,6,M,ROMAIN,Ludovic,ROMAIN,Ludovic,1987-11-20,Profession libérale,33.51
+18161,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,7,F,JEAN-EUSTACHE POGNON,Régine,JEAN-EUSTACHE,Régine,1971-01-30,"Professeur, profession scientifique",50.31
+18162,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,8,M,EURANIE,Jean-Hugues,EURANIE,Jean-Hugues,1991-07-14,Employé de commerce,29.86
+18163,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,9,F,RANGOLY,Georgette,RANGOLY,Georgette,1979-11-07,Chômeur n'ayant jamais travaillé,41.54
+18164,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,10,M,CHEMIR,Jean-Paul,CHEMIR,Rodrigue,1956-03-13,Ancien employé,65.2
+18165,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,11,F,LOUEMBA LETI,Mireille,LOUEMBA,Victorin,1955-03-23,Profession intermédiaire de la santé et du travail social,66.17
+18166,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,12,M,TERRINE,Jérémy,TERRINE,Jérémy,1993-03-09,"Contremaître, agent de maîtrise",28.21
+18167,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,13,F,LAPART,Clarisse,LAPART,Clarisse,1972-10-26,Employé civil et agent de service de la fonction publique,48.57
+18168,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,14,M,ANACLET,Jonathan,ANACLET,Jonathan,1985-02-04,Chômeur n'ayant jamais travaillé,36.3
+18169,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,15,F,SALPETRIER,Murièle,SALPETRIER,Murièle,1987-10-31,Employé administratif d'entreprise,33.56
+18170,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,16,M,GRANDIN,Lionel,GRANDIN,Lionel,1986-06-20,Commerçant et assimilé,34.93
+18171,2,Martinique,ZB1, Centre,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,17,F,DUFRENOT,Eveline,DUFRENOT,Eveline,1952-07-16,Ancien employé,68.85
+18172,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,1,M,RAPHA,Christian,RAPHA,Henri,1954-07-14,"Ancien artisan, commerçant, chef d'entreprise",66.86
+18173,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,2,F,BERNABE,Kora,BERNABE,Kora,1989-04-06,Ingénieur et cadre technique d'entreprise,32.13
+18174,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,3,M,LISLET,Claude,LISLET,Claude,1963-08-16,Chef d'entreprise de 10 salariés ou plus,57.77
+18175,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,4,F,JEANNE-ROSE,Laurence,JEANNE-ROSE,Laurence,1987-08-26,Profession intermédiaire administrative de la fonction publique,33.74
+18176,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,5,M,MARRON,Jocelyn,MARRON,Jocelyn,1964-11-23,Cadre administratif et commercial d'entreprise,56.5
+18177,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,6,F,THOBOR GROS-DESIRS,Julie,THOBOR,Julie,1961-09-16,Cadre de la fonction publique,59.69
+18178,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,7,M,SIMPHOR,Jean-Emile,SIMPHOR,Jean-Emile,1963-02-08,"Professeur, profession scientifique",58.29
+18179,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,8,F,BAUCELIN,Chantal,BAUCELIN,Chantal,1966-08-23,"Professeur des écoles, instituteur et assimilé",54.75
+18180,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,9,M,ULTET,Patrick,ULTET,Patrick,1954-03-24,Profession libérale,67.17
+18181,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,10,F,MARTIAL,Rylha,MARTIAL,Rylha,1975-11-13,Commerçant et assimilé,45.53
+18182,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,11,M,DIAZ,Pierre Marcel,DIAZ,Pierre,1951-07-12,Ancienne profession intermédiaire,69.87
+18183,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,12,F,BEN M'BARECK,Kalthoum,BEN M'BARECK,Kalthoum,1975-06-22,Cadre administratif et commercial d'entreprise,45.92
+18184,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,13,M,ULLINDAH,Michel,ULLINDAH,Michel,1962-09-28,Profession intermédiaire administrative et commerciale des entreprises,58.65
+18185,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,14,F,ZAIRE,Chantal,ZAIRE,Chantal,1960-03-13,Employé administratif d'entreprise,61.2
+18186,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,15,M,ZIE-ME,Stéphane,ZIE-ME,Stéphane,1973-02-12,Profession intermédiaire administrative et commerciale des entreprises,48.28
+18187,2,Martinique,ZB2, Nord,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,16,F,SAINTE-CROIX,Régine,SAINTE-CROIX,Régine,1970-01-11,Commerçant et assimilé,51.36
+18188,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Oui,1,F,CONCONNE,Catherine,CONCONNE,Catherine,1963-05-18,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité),58.02
+18189,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,2,M,VILLET,Julien,VILLET,Julien,1989-09-08,Employé administratif d'entreprise,31.71
+18190,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,3,F,DORE,Katy,DORE,Katy,1977-12-07,Employé civil et agent de service de la fonction publique,43.46
+18191,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,4,M,MORINIERE,Max,MORINIERE,Max,1964-02-16,Employé civil et agent de service de la fonction publique,57.27
+18192,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,5,F,JEAN-ELIE,Barbara,JEAN-ELIE,Barbara,1967-07-22,Cadre de la fonction publique,53.84
+18193,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,6,M,ADRASSE,Mike,ADRASSE,Mike,1988-11-26,Commerçant et assimilé,32.49
+18194,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,7,F,VELAYOUDON,Edithe,VELAYOUDON,Edithe,1963-02-09,Cadre de la fonction publique,58.29
+18195,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,8,M,REMISSE,Raymond,REMISSE,Raymond,1950-10-18,Ancien employé,70.6
+18196,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,9,F,PARIZE-VALDOR,Marlène,PARIZE,Marlène,1970-01-31,"Professeur, profession scientifique",51.31
+18197,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,10,M,ROSIER,Philippe,ROSIER,Philippe,1941-01-05,Ancien cadre,80.38
+18198,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,11,F,LAMALLE,Adrianna,LAMALLE,Adrianna,1982-09-27,Employé civil et agent de service de la fonction publique,38.66
+18199,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,12,M,SAMSON-EMMANUEL,Robert Christophe,SAMSON-EMMANUEL,Christophe,1963-07-25,Cadre de la fonction publique,57.83
+18200,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,13,F,ROCH,Alexandra,ROCH,Alexandra,1987-11-30,"Professeur des écoles, instituteur et assimilé",33.48
+18201,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,14,M,SEFIL,Marc,SEFIL,Marc,1967-11-11,Cadre de la fonction publique,53.53
+18202,2,Martinique,ZB3, Fort-de-France,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,15,F,PHEBIDIAS,Mirella,PHEBIDIAS,Mirella,1965-05-04,Employé civil et agent de service de la fonction publique,56.05
+18203,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,1,M,TIRAULT,Fred Michel,TIRAULT,Fred,1973-07-07,Profession libérale,47.88
+18204,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,2,F,LEBRAVE,Lucie,LEBRAVE,Lucie,1963-05-06,Ingénieur et cadre technique d'entreprise,58.05
+18205,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,3,M,DUVILLE,Ruddy,DUVILLE,Ruddy,1975-02-02,Ingénieur et cadre technique d'entreprise,46.31
+18206,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,4,F,LABANARD,Ruidice,LABANARD,Ruidice,1964-09-29,Chef d'entreprise de 10 salariés ou plus,56.65
+18207,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,5,M,ELMIRA,Daniel,ELMIRA,Claude,1953-07-06,Ancien cadre,67.88
+18208,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,6,F,AMPIGNY,Marie-Line,AMPIGNY,Andrée,1956-09-23,Ancien cadre,64.67
+18209,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,7,M,MIRANDE,Stéphane,MIRANDE,Stéphane,1944-10-25,Commerçant et assimilé,76.58
+18210,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,8,F,CIVATON,Madeleine,CIVATON,Madeleine,1963-07-10,Employé de commerce,57.87
+18211,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,9,M,SAINT-CYR,Christophe,SAINT-CYR,Christophe,1968-11-11,Agriculteur sur petite exploitation,52.53
+18212,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,10,F,ALGER,Marie-Josée,ALGER,Marie-Josée,1969-01-20,Cadre administratif et commercial d'entreprise,52.34
+18213,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,11,M,VARRIN-DOYER,Victor,VARRIN-DOYER,Victor,1956-08-02,Cadre administratif et commercial d'entreprise,64.81
+18214,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,12,F,COPPET,Valérie Clémence,COPPET,Valérie,1969-12-09,Chef d'entreprise de 10 salariés ou plus,51.46
+18215,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,13,M,GERME,Grégory,GERME,Grégory,1992-12-10,Cadre administratif et commercial d'entreprise,28.45
+18216,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,14,F,VIGILANT,Gessy,VIGILANT,Gessy,1970-06-27,Profession intermédiaire de la santé et du travail social,50.91
+18217,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,15,M,PULVAR,Guillaume,PULVAR,Guillaume,1998-04-20,"Elève, étudiant",23.09
+18218,2,Martinique,ZB4, Sud,13,9,LA MARTINIQUE ENSEMBLE,LDVC,Non,16,F,CLAIRVOYANT,Martine,CLAIRVOYANT,Martine,1964-07-12,Profession intermédiaire administrative et commerciale des entreprises,56.87
+18219,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,1,M,MAUGEE,Louis,MAUGEE,Louis Joseph,1947-03-17,Ancienne profession intermédiaire,74.19
+18220,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,2,F,SHOULETTE,Luciana,SHOULETTE,Luciana,1958-06-18,Ouvrier agricole,62.93
+18221,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,3,M,BELTAN,Gérard,BELTAN,Gérard,1975-12-12,Technicien,45.45
+18222,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,4,F,CARDA,Marie-Antoinette,CARDA,Marie-Antoinette,1972-09-28,Cadre administratif et commercial d'entreprise,48.65
+18223,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,5,M,VERT-PRE,Jean-Marc,VERT-PRE,Jean-Marc,1972-04-16,Ouvrier agricole,49.1
+18224,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,6,F,FLOBINUS,Yolène,FLOBINUS,Yolène Olga,1958-11-07,Personnel des services directs aux particuliers,62.54
+18225,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,7,M,GLANY,Yves,GLANY,Yves Didier,1952-05-22,Ancien employé,69.0
+18226,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,8,F,COLLOT,Annie,COLLOT,Annie Chantal,1951-11-10,Ancienne profession intermédiaire,69.54
+18227,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,9,M,EMMANUEL,Yannick Alvin,EMMANUEL,Yannick Alvin,1993-05-18,"Elève, étudiant",28.02
+18228,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,10,F,BASTE,Marilyn,BASTE,Clément Gina,1955-11-23,Ancien cadre,65.5
+18229,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,11,M,VALOIR,André Laurent,VALOIR,André Laurent,1964-05-09,Technicien,57.04
+18230,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,12,F,DAVIDAS,Eliane,DAVIDAS,Eliane Paulette,1948-01-15,Ancienne profession intermédiaire,73.36
+18231,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,13,M,VILLAGEOIS,Marc-André,VILLAGEOIS,Marc-André Olivier,1996-10-29,Chômeur n'ayant jamais travaillé,24.57
+18232,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,14,F,DUFEAL,Agnès,DUFEAL,Agnès Ghisleine,1947-01-21,Ancienne profession intermédiaire,74.34
+18233,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,15,M,SULIO,Clément,SULIO,Clément,1951-11-24,Ancien ouvrier,69.5
+18234,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,16,F,BAYARDIN,Sonia,BAYARDIN,Sonia Jeanne,1954-10-21,Ancien cadre,66.59
+18235,2,Martinique,ZB1, Centre,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,17,M,MARTAIL,Fred Alain,MARTAIL,Fred Alain,1968-03-17,Technicien,53.19
+18236,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,1,F,MARTHE-DITE-SURELLY,Marie-Hellen Nazaire,MARTHE-DITE-SURELLY,Marie-Hellen Nazaire,1962-07-28,Ouvrier agricole,58.82
+18237,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,2,M,CENTAURE,Laurent,CENTAURE,Laurent Evariste,1963-10-26,Ouvrier agricole,57.58
+18238,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,3,F,GOVINDY,Guérita,GOVINDY,Guérita,1959-12-26,Profession intermédiaire administrative de la fonction publique,61.41
+18239,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,4,M,BREDAS,Jean Etienne,BREDAS,Jean Etienne,1961-12-25,Chauffeur,59.41
+18240,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,5,F,ROVELA,Joëlle,ROVELA,Joëlle Paule,1960-02-03,Employé administratif d'entreprise,61.3
+18241,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,6,M,VAUBIEN,Agnan Jocky,VAUBIEN,Agnan Jocky,1956-11-17,Technicien,64.51
+18242,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,7,F,PHILLIPY,Marie-Noëlle,PHILLIPY,Marie Noëlle,1975-11-09,Ouvrier agricole,45.54
+18243,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,8,M,TATLOT,Rose Elie,TATLOT,Rose Elie,1954-08-31,Ancien ouvrier,66.73
+18244,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,9,F,LORIOL,Céline Nicole,COQUIN,Céline,1984-08-24,Profession intermédiaire de la santé et du travail social,36.75
+18245,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,10,M,FLOBINUS,Patrick Monique,FLOBINUS,Patrick Monique,1961-04-05,Ouvrier agricole,60.13
+18246,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,11,F,EUPHROSINE,Athanase Marthe,BORVAL,Athanase Marthe,1965-02-05,Ouvrier agricole,56.3
+18247,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,12,M,PIERRON,Patrice,PIERRON,Patrice Luc,1977-10-18,Employé de commerce,43.6
+18248,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,13,F,LECHERTIER,Kiliane,LECHERTIER,Kiliane Nadège,1998-02-18,"Elève, étudiant",23.26
+18249,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,14,M,DUFEAL,Gaëtan Alex,DUFEAL,Gaëtan Alex,1948-07-08,Ancienne profession intermédiaire,72.88
+18250,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,15,F,MARIE-SAINTE,Maryse,CHONQUET,Maryse Laure,1970-10-19,Ouvrier agricole,50.6
+18251,2,Martinique,ZB2, Nord,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,16,M,LOUIS-THERESE,Luc,LOUIS-THERESE,Luc Léon,1965-04-13,Employé administratif d'entreprise,56.11
+18252,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Oui,1,M,JEAN-MARIE,Gabriel,JEAN-MARIE,Gabriel Honoré,1959-02-27,Ancien cadre,62.24
+18253,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,2,F,SULIO,Mélanie Laura,SULIO,Mélanie Laura,1996-01-12,Cadre administratif et commercial d'entreprise,25.36
+18254,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,3,M,MAGIT,Jean-Jacques,MAGIT,Blaise Jean-Jacques,1950-02-02,Ancien ouvrier,71.3
+18255,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,4,F,BROCHE,Rosella,BROCHE,Rosella Fabien,1954-01-20,Profession intermédiaire de la santé et du travail social,67.34
+18256,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,5,M,BEAUNOL,Bruno François,BEAUNOL,Bruno François,1967-09-24,Employé de commerce,53.66
+18257,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,6,F,MARTIN,Florence Nadiège,MARTIN,Florence Nadiège,1962-11-10,Personnel des services directs aux particuliers,58.54
+18258,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,7,M,BRENA,Casimir,BRENA,Casimir Romain,1949-11-18,Ancien employé,71.51
+18259,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,8,F,DIGONAL,Rosette,DIGONAL,Rosette Sylviane,1965-02-17,Employé de commerce,56.26
+18260,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,9,M,BRISSONNET,Pierre,BRISSONNET,Pierre Gilbert,1959-06-23,"Ouvrier qualifié de la manutention, du magasinage et du transport",61.92
+18261,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,10,F,TRABILORD,Guylène Solange,TRABILORD,Guylène Solange,1966-10-05,Personnel des services directs aux particuliers,54.63
+18262,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,11,M,PIED,Rodrigue,PIED,Rodrigue,1969-09-08,Artisan,51.71
+18263,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,12,F,POTTINGER-GONZALEZ,Shirley,POTTINGER-GONZALEZ,Shirley,1971-08-04,Personnel des services directs aux particuliers,49.8
+18264,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,13,M,VINCENT,Eric Vincent,VINCENT,Eric Vincent,1953-01-22,Ancien cadre,68.33
+18265,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,14,F,JOACHIM-ARNAUD,Ghislaine,JOACHIM-ARNAUD,Ghislaine Marguerite,1952-10-06,Ancienne profession intermédiaire,68.63
+18266,2,Martinique,ZB3, Fort-de-France,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,15,M,FOIST,Théodore,FOIST,Théodore Maxime,1956-05-16,Employé de commerce,65.02
+18267,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,1,M,LOUIS-ALEXANDRE,Eric,LOUIS-ALEXANDRE,Eric Corentin,1969-12-12,Profession intermédiaire de la santé et du travail social,51.45
+18268,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,2,F,ADOLPHE,Agnès,ADOLPHE,Agnès Alexis,1973-02-17,Employé de commerce,48.26
+18269,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,3,M,CIZO,Steve,CIZO,Steve Hubert,1995-06-15,Employé de commerce,25.94
+18270,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,4,F,JOSEPH-BONIFACE,Thérèse,JOSEPH-BONIFACE,Thérèse Line,1956-09-23,Employé de commerce,64.67
+18271,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,5,M,JOSEPH,Raymond,JOSEPH,Raymond Nazaire,1960-07-28,Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité),60.82
+18272,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,6,F,HENDERSON,Marie-Annick Roberte,HENDERSON,Marie-Annick Roberte,1960-04-29,Cadre de la fonction publique,61.07
+18273,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,7,M,TRUXILLO,Théodose,TRUXILLO,Théodose Geneviève,1950-03-01,Ancienne profession intermédiaire,71.23
+18274,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,8,F,JEAN-MARIE,Régine,JEAN-MARIE,Régine,1970-06-11,"Professeur, profession scientifique",50.95
+18275,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,9,M,LEGENDRI,Alex,LEGENDRI,Alex René,1957-03-10,Ancien cadre,64.21
+18276,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,10,F,FIDOL,Thomas Paulette,FIDOL,Thomas Paulette,1959-07-03,Ouvrier agricole,61.89
+18277,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,11,M,SIMOND,Philippe Eddy,SIMOND,Philippe Eddy,1962-11-05,Employé de commerce,58.55
+18278,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,12,F,LEPRIX,Madjanie Isabelle,LEPRIX,Madjanie Isabelle,1976-02-22,"Professeur, profession scientifique",45.25
+18279,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,13,M,TAVUS,Albéric,TAVUS,Albéric Cyprien,1967-09-16,Ouvrier agricole,53.69
+18280,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,14,F,GUITTEAUD,Josiane Expédit,GUITTEAUD,Josiane Expédit,1959-04-19,Personnel des services directs aux particuliers,62.1
+18281,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,15,M,CAVALIER,Armand,CAVALIER,Armand Marie-José,1962-07-06,Employé de commerce,58.88
+18282,2,Martinique,ZB4, Sud,14,4,COMBAT OUVRIER - FAIRE ENTENDRE LE CAMP DES TRAVAILLEURS,LEXG,Non,16,F,TOM,Ilvrine,TOM,Ilvrine Ignace,1981-07-31,"Professeur, profession scientifique",39.81

@@ -7,6 +7,11 @@ Ces critères sont forcément subjectifs et peut-être pas les plus pertinents.
 Néanmoins, les données collectés sont ouvertes, libre à chacun de les réutiliser et/ou de les compléter.
 Ou pas.
 
+## Données liste
+
+Fourni par le ministère de l'intérieur et accessible sur la plateforme [opendata](https://www.data.gouv.fr/fr/datasets/elections-regionales-2021-candidatures-au-1er-tour/).
+Est fournie, une [liste enrichie avec l'âge de chaque candidat](livre-des-listes-et-candidats-reg-t1-france-entiere-2021-05-18-clean+age.csv) ainsi qu'une liste spécifique à la [Martinique](livre-des-listes-et-candidats-reg-t1-france-entiere-2021-05-18-clean+age-martinique.csv).
+
 ## Utilisation
 
 ### Tableur
